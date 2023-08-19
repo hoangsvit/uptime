@@ -11,6 +11,20 @@ sites:
     url: https://forum.eplus.dev
   - name: Graphql Studio
     url: https://graphql-studio.eplus.dev
+  - name: ePlus Analytics
+    url: https://analytics.eplus.dev
+  - name: ePlus JSON Crack 
+    url: https://json.eplus.dev
+  - name: ePlus Cors Anywhere
+    url: https://cors-anywhere.eplus.dev
+  - name: Hỗ trợ hệ thống MWG
+    url: https://mwg.eplus.dev
+  - name: ePlus HUB
+    url: https://hub.eplus.dev
+  - name: David ❤️ Sam
+    url: https://david-sam.tech
+  - name: 🍄 Nấm Nông Lâm
+    url: https://namnonglam.edu.vn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
