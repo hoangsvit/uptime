@@ -42,11 +42,11 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 workflowSchedule:
-  responseTime: "* * * * *"
-  staticSite: "* * * * *"
-  summary: "* * * * *"
-  updates: "* * * * *"
-  uptime: "* * * * *"
+  responseTime: "*/5 * * * *"
+  staticSite: "*/5 * * * *"
+  summary: "*/5 * * * *"
+  updates: "*/5 * * * *"
+  uptime: "*/5 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
