@@ -61,5 +61,8 @@ commitMessages:
   commitAuthorName: "Uptime Bot"
   commitAuthorEmail: "contact@eplus.dev"
 
+i18n:
+  footer: Made with ❤️ by [ePlus.DEV](https://eplus.dev)
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
