@@ -21,8 +21,14 @@ sites:
     url: https://mwg.eplus.dev
   - name: ePlus HUB
     url: https://hub.eplus.dev
+  - name: ePlus Uptime
+    url: https://uptime.eplus.dev
+  - name: ePlus Status
+    url: https://status.eplus.dev
   - name: David ❤️ Sam
     url: https://david-sam.tech
+  - name: David ❤️ Sam (Backup)
+    url: https://dev-david-sam.pantheonsite.io
   - name: 🍄 Nấm Nông Lâm
     url: https://namnonglam.edu.vn
 
