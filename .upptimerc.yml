@@ -31,6 +31,8 @@ sites:
     url: https://dev-david-sam.pantheonsite.io
   - name: 🍄 Nấm Nông Lâm
     url: https://namnonglam.edu.vn
+  - name: Laravel 10x on Render
+    url: https://laravel-10x.onrender.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
