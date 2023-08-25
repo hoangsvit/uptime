@@ -61,7 +61,7 @@ i18n:
   footer: Made with ❤️ by [ePlus.DEV](https://eplus.dev)
 
 workflowSchedule:
-  graphs: */30 * * * *
+  graphs: */30 * * * *"
   responseTime: "0 23 * * *"
   staticSite: "*/30 * * * *"
   summary: "0 0 * * *"
