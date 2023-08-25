@@ -51,10 +51,7 @@ status-website:
   scripts:
     - src: https://www.googletagmanager.com/gtag/js?id=G-FQ4NLQRFXF
       async: true
-      js: "window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-FQ4NLQRFXF');"
+  js: "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-FQ4NLQRFXF');"
 
 commitMessages:
   commitAuthorName: "Uptime Bot"
