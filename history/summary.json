@@ -168,19 +168,19 @@
     "url": "https://hub.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/hub.eplus.dev.ico",
     "slug": "e-plus-hub",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 201,
-    "timeWeek": 157,
-    "timeMonth": 164,
-    "timeYear": 164,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 172,
+    "timeDay": 300,
+    "timeWeek": 177,
+    "timeMonth": 172,
+    "timeYear": 172,
     "dailyMinutesDown": {
-      "2023-08-31": 0
+      "2023-08-31": 10
     }
   },
   {
