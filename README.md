@@ -38,6 +38,8 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 [**Visit our status website →**](https://uptime.eplus.dev)
 
+![Alt](https://repobeats.axiom.co/api/embed/74e9da774a323c325db5c2e07243de4be1b5f041.svg "Repobeats analytics image")
+
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
