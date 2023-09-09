@@ -17,6 +17,8 @@ sites:
     url: https://json.eplus.dev
   - name: ePlus Cors Anywhere
     url: https://cors-anywhere.eplus.dev
+  - name: ePlus Auth
+    url: https://auth.eplus.dev/dashboard/
   - name: Hỗ trợ hệ thống MWG
     url: https://mwg.eplus.dev
   - name: ePlus ZingMP3
