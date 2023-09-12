@@ -5,44 +5,63 @@ repo: uptime # The name of this repository
 sites:
   - name: ePlus.DEV
     url: https://eplus.dev
+    
   - name: ePlus Radio
     url: https://radio.eplus.dev
+    
   - name: ePlus Forum
     url: https://forum.eplus.dev
+    
   - name: Graphql Studio
     url: https://graphql-studio.eplus.dev
+    
   - name: ePlus Analytics
     url: https://analytics.eplus.dev
+    
   - name: ePlus JSON Crack 
     url: https://json.eplus.dev
+    
   - name: ePlus Cors Anywhere
     url: https://cors-anywhere.eplus.dev
     icon: https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/img/icon/right-left-duotone.png
 
   - name: ePlus Auth
     url: https://auth.eplus.dev/dashboard/
+    
   - name: Hỗ trợ hệ thống MWG
     url: https://mwg.eplus.dev
+    
   - name: ePlus ZingMP3
     url: https://zing.eplus.dev
+    
   - name: ePlus Websocket
     url: https://ws.eplus.dev
+    icon: https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/img/icon/signal-stream-duotone.png
+    
   - name: ePlus HUB
     url: https://hub.eplus.dev
+    
   - name: ePlus Uptime
     url: https://uptime.eplus.dev
+    
   - name: ePlus Status
     url: https://status.eplus.dev
+    
   - name: ePlus Show Code
     url: https://code.eplus.dev
+    
   - name: David ❤️ Sam
     url: https://david-sam.tech
+    
   - name: David ❤️ Sam (Backup)
     url: https://dev-david-sam.pantheonsite.io
+    
   - name: 🍄 Nấm Nông Lâm
     url: https://namnonglam.edu.vn
+    
   - name: Laravel 10x on Render
     url: https://laravel-10x.onrender.com
+    icon: https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/blob/main/img/icon/render-favicon-32x32.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
