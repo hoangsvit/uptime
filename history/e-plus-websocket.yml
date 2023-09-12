@@ -1,7 +1,7 @@
 url: https://ws.eplus.dev
-status: down
-code: 503
-responseTime: 243
-lastUpdated: 2023-09-12T08:38:34.726Z
+status: up
+code: 200
+responseTime: 228
+lastUpdated: 2023-09-12T09:25:47.456Z
 startTime: 2023-09-12T01:58:29.094Z
 generator: Upptime <https://github.com/upptime/upptime>
