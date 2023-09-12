@@ -61,7 +61,7 @@ sites:
     
   - name: Laravel 10x on Render
     url: https://laravel-10x.onrender.com
-    icon: https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/blob/main/img/icon/render-favicon-32x32.png
+    icon: https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/img/icon/render-favicon-32x32.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
