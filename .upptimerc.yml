@@ -1,7 +1,6 @@
 # Change these first
 owner: hoangsvit # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
-logoUrl: https://raw.githubusercontent.com/hoangsvit/uptime/master/assets/upptime-icon.svg
 
 sites:
   - name: ePlus.DEV
@@ -18,6 +17,8 @@ sites:
     url: https://json.eplus.dev
   - name: ePlus Cors Anywhere
     url: https://cors-anywhere.eplus.dev
+    icon: https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/img/icon/right-left-duotone.png
+
   - name: ePlus Auth
     url: https://auth.eplus.dev/dashboard/
   - name: Hỗ trợ hệ thống MWG
@@ -48,7 +49,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.eplus.dev
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/hoangsvit/uptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/hoangsvit/uptime/master/assets/upptime-icon.svg
   name: Uptime
   introTitle: "**Uptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/hoangsvit/uptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/hoangsvit/uptime)
