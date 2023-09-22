@@ -35,7 +35,7 @@ sites:
     url: https://zing.eplus.dev
 
   - name: ePlus Mailpit
-    url: https:///mailpit.eplus.dev:8025/livez
+    url: https://mailpit.eplus.dev:8025/livez
     icon: https://mailpit.eplus.dev:8025/favicon.svg
     
   - name: ePlus Websocket
