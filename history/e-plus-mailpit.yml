@@ -1,7 +1,7 @@
-url: https://mailpit.eplus.dev:8025/livez
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-22T16:20:17.706Z
+url: https://mailpit.eplus.dev
+status: up
+code: 200
+responseTime: 595
+lastUpdated: 2023-09-22T16:44:22.519Z
 startTime: 2023-09-22T15:55:24.279Z
 generator: Upptime <https://github.com/upptime/upptime>
