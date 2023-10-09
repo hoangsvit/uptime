@@ -1,7 +1,7 @@
 url: https://wss.eplus.dev
-status: up
-code: 200
-responseTime: 429
-lastUpdated: 2023-10-09T15:20:34.580Z
+status: down
+code: 502
+responseTime: 355
+lastUpdated: 2023-10-09T22:54:15.699Z
 startTime: 2023-09-14T10:23:42.288Z
 generator: Upptime <https://github.com/upptime/upptime>
