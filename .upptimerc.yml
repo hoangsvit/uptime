@@ -20,6 +20,9 @@ sites:
     
   - name: ePlus JSON Crack 
     url: https://json.eplus.dev
+
+  - name: ePlus JSON Crack Plus
+    url: https://jsoncrack.eplus.dev
     
   - name: ePlus Cors Anywhere
     url: https://cors-anywhere.eplus.dev
