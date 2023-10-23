@@ -9,9 +9,6 @@ sites:
   - name: ePlus Radio
     url: https://radio.eplus.dev
     
-  - name: ePlus Forum
-    url: https://forum.eplus.dev
-    
   - name: Graphql Studio
     url: https://graphql-studio.eplus.dev
     
