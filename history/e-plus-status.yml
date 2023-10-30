@@ -1,7 +1,7 @@
 url: https://status.eplus.dev
-status: down
-code: 500
-responseTime: 142
-lastUpdated: 2023-10-30T20:07:57.859Z
+status: up
+code: 200
+responseTime: 308
+lastUpdated: 2023-10-30T20:22:47.199Z
 startTime: 2023-08-20T07:36:52.465Z
 generator: Upptime <https://github.com/upptime/upptime>
