@@ -1,7 +1,7 @@
 url: https://auth.eplus.dev/dashboard/
-status: down
-code: 503
-responseTime: 429
-lastUpdated: 2023-11-30T08:44:43.885Z
+status: up
+code: 200
+responseTime: 214
+lastUpdated: 2023-11-30T08:54:08.359Z
 startTime: 2023-09-09T16:58:53.087Z
 generator: Upptime <https://github.com/upptime/upptime>
