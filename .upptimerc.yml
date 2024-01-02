@@ -38,10 +38,6 @@ sites:
     url: https://mailpit.eplus.dev
     icon: https://mailpit.eplus.dev:8025/favicon.svg
     
-  - name: ePlus Websocket
-    url: https://ws.eplus.dev
-    icon: https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/img/icon/signal-stream-duotone.png
-    
   - name: ePlus HUB
     url: https://hub.eplus.dev
     
