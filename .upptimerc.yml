@@ -24,9 +24,6 @@ sites:
   - name: ePlus Cors Anywhere
     url: https://cors-anywhere.eplus.dev
     icon: https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/img/icon/right-left-duotone.png
-
-  - name: ePlus Auth
-    url: https://auth.eplus.dev/dashboard/
     
   - name: Hỗ trợ hệ thống MWG
     url: https://mwg.eplus.dev
