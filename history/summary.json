@@ -140,6 +140,24 @@
     }
   },
   {
+    "name": "ePlus AirDrop",
+    "url": "https://air.eplus.dev",
+    "icon": "https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/img/icon/airdrop.png",
+    "slug": "e-plus-air-drop",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Hỗ trợ hệ thống MWG",
     "url": "https://mwg.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/mwg.eplus.dev.ico",
@@ -320,7 +338,7 @@
     "uptimeMonth": "90.45%",
     "uptimeYear": "97.81%",
     "time": 2402,
-    "timeDay": 1758,
+    "timeDay": 1610,
     "timeWeek": 1904,
     "timeMonth": 2033,
     "timeYear": 2402,
