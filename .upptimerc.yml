@@ -24,6 +24,10 @@ sites:
   - name: ePlus Cors Anywhere
     url: https://cors-anywhere.eplus.dev
     icon: https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/img/icon/right-left-duotone.png
+
+  - name: ePlus AirDrop
+    url: https://air.eplus.dev
+    icon: https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/img/icon/airdrop.png
     
   - name: Hỗ trợ hệ thống MWG
     url: https://mwg.eplus.dev
