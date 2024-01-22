@@ -55,9 +55,6 @@ sites:
 
   - name: ePlus Laravel Artisan
     url: https://artisan.eplus.dev
-
-  - name: ePlus Regex Learn
-    url: https://regexlearn.eplus.dev
   
   - name: ePlus updown
     url: https://updown.eplus.dev
