@@ -35,6 +35,36 @@ sites:
   - name: ePlus ZingMP3
     url: https://zing.eplus.dev
 
+  - name: ePlus DEV Tools
+    url: https://tools.eplus.dev
+
+  - name: ePlus Markdown
+    url: https://markdown.eplus.dev
+
+  - name: ePlus Draw
+    url: https://draw.eplus.dev
+
+  - name: ePlus Instagram
+    url: https://instagram.eplus.dev
+
+  - name: ePlus CDN
+    url: https://cdn.eplus.dev
+
+  - name: ePlus Blog (Blogger)
+    url: https://blog.eplus.dev
+
+  - name: ePlus Laravel Artisan
+    url: https://artisan.eplus.dev
+
+  - name: ePlus Regex Learn
+    url: https://regexlearn.eplus.dev
+  
+  - name: ePlus updown
+    url: https://updown.eplus.dev
+
+  - name: ePlus Portfolio
+    url: https://portfolio.eplus.dev
+
   - name: ePlus Mailpit
     url: https://mailpit.eplus.dev
     icon: https://mailpit.eplus.dev:8025/favicon.svg
@@ -53,6 +83,9 @@ sites:
 
   - name: ePlus Cronjob
     url: https://cronjob.eplus.dev
+
+  - name: ePlus Radio (old)
+    url: https://old-radio.eplus.dev
     
   - name: David ❤️ Sam
     url: https://david-sam.tech
