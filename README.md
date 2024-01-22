@@ -2,11 +2,11 @@
 
 This repository contains the open-source uptime monitor and status page for [David Nguyen](eplus.dev), powered by [Upptime](https://github.com/upptime/upptime).
 
-[![Uptime CI](https://github.com/hoangsvit/uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/hoangsvit/uptime/actions?query=workflow%3A%22Uptime+CI%22)
-[![Response Time CI](https://github.com/hoangsvit/uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/hoangsvit/uptime/actions?query=workflow%3A%22Response+Time+CI%22)
-[![Graphs CI](https://github.com/hoangsvit/uptime/workflows/Graphs%20CI/badge.svg)](https://github.com/hoangsvit/uptime/actions?query=workflow%3A%22Graphs+CI%22)
-[![Static Site CI](https://github.com/hoangsvit/uptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/hoangsvit/uptime/actions?query=workflow%3A%22Static+Site+CI%22)
-[![Summary CI](https://github.com/hoangsvit/uptime/workflows/Summary%20CI/badge.svg)](https://github.com/hoangsvit/uptime/actions?query=workflow%3A%22Summary+CI%22)
+[![Uptime CI](https://img.shields.io/github/actions/workflow/status/hoangsvit/uptime/uptime.yml?branch=master&color=blue&label=Uptime%20CI&logo=github&logoColor=white&style=flat-square)](https://github.com/hoangsvit/uptime/actions?query=workflow%3A%22Uptime+CI%22)
+[![Response Time CI](https://img.shields.io/github/actions/workflow/status/hoangsvit/uptime/response-time.yml?branch=master&color=blue&label=Response%20Time%20CI&logo=github&logoColor=white&style=flat-square)](https://github.com/hoangsvit/uptime/actions?query=workflow%3A%22Response+Time+CI%22)
+[![Graphs CI](https://img.shields.io/github/actions/workflow/status/hoangsvit/uptime/graphs.yml?branch=master&color=blue&label=Graphs%20CI&logo=github&logoColor=white&style=flat-square)](https://github.com/hoangsvit/uptime/actions?query=workflow%3A%22Graphs+CI%22)
+[![Static Site CI](https://img.shields.io/github/actions/workflow/status/hoangsvit/uptime/site.yml?branch=master&color=blue&label=Static%20Site%20CI&logo=github&logoColor=white&style=flat-square)](https://github.com/hoangsvit/uptime/actions?query=workflow%3A%22Static+Site+CI%22)
+[![Summary CI](https://img.shields.io/github/actions/workflow/status/hoangsvit/uptime/summary.yml?branch=master&color=blue&label=Summary%20CI&logo=github&logoColor=white&style=flat-square)](https://github.com/hoangsvit/uptime/actions?query=workflow%3A%22Summary+CI%22)
 
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/hoangsvit/uptime/issues) as incident reports, [Actions](https://github.com/hoangsvit/uptime/actions) as uptime monitors, and [Pages](https://uptime.eplus.dev) for the status page.
 
