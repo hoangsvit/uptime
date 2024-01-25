@@ -44,6 +44,9 @@ sites:
   - name: ePlus Draw
     url: https://draw.eplus.dev
 
+  - name: ePlus Dashboard
+    url: https://dashboard.eplus.dev
+
   - name: ePlus Instagram
     url: https://instagram.eplus.dev
 
