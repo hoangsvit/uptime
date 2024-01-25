@@ -68,7 +68,7 @@ sites:
 
   - name: ePlus Mailpit
     url: https://mailpit.eplus.dev
-    icon: https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/subdomain/mailpit/favicon.svg
+    icon: https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/assets/subdomain/mailpit/favicon.svg
     
   - name: ePlus HUB
     url: https://hub.eplus.dev
