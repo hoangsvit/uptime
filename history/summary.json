@@ -197,6 +197,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "ePlus Top GitHub Users",
+    "url": "https://top-github-users.eplus.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/top-github-users.eplus.dev.ico",
+    "slug": "e-plus-top-git-hub-users",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "ePlus ZingMP3",
     "url": "https://zing.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/zing.eplus.dev.ico",
@@ -561,7 +579,7 @@
     "time": 2314,
     "timeDay": 1553,
     "timeWeek": 1684,
-    "timeMonth": 1932,
+    "timeMonth": 1940,
     "timeYear": 2314,
     "dailyMinutesDown": {
       "2024-01-29": 21,
