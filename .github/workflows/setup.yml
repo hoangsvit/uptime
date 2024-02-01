@@ -68,5 +68,5 @@ jobs:
           github_token: ${{ secrets.GH_PAT || github.token }}
           publish_dir: "site/status-page/__sapper__/export/"
           force_orphan: "false"
-          user_name: "eplus-bot"
-          user_email: "bot@eplus.dev"
+          user_name: "Uptime Bot"
+          user_email: "contact@eplus.dev"
