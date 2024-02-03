@@ -11,7 +11,10 @@ sites:
     
   - name: ePlus News
     url: https://news.eplus.dev
-  
+
+  - name: ePlus - Top GitHub Users
+    url: https://top-github-users.eplus.dev
+    
   - name: Graphql Studio
     url: https://graphql-studio.eplus.dev
     
