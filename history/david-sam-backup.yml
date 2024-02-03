@@ -1,7 +1,7 @@
 url: https://dev-david-sam.pantheonsite.io
-status: up
-code: 200
-responseTime: 1548
-lastUpdated: 2024-02-03T07:12:07.545Z
+status: down
+code: 504
+responseTime: 1944
+lastUpdated: 2024-02-03T08:49:57.355Z
 startTime: 2023-08-20T07:36:54.785Z
 generator: Upptime <https://github.com/upptime/upptime>
