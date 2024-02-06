@@ -14,6 +14,12 @@ sites:
 
   - name: ePlus - Top GitHub Users
     url: https://top-github-users.eplus.dev
+
+  - name: ePlus - Top GitHub
+    url: https://top-github.eplus.dev
+
+  - name: ePlus - Free For Dev
+    url: https://free-for-dev.eplus.dev
     
   - name: Graphql Studio
     url: https://graphql-studio.eplus.dev
