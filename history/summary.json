@@ -440,12 +440,12 @@
     "status": "up",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
     "time": 778,
     "timeDay": 1028,
-    "timeWeek": 753,
+    "timeWeek": 783,
     "timeMonth": 778,
     "timeYear": 778,
     "dailyMinutesDown": {
@@ -605,10 +605,10 @@
     "url": "https://david-sam.tech",
     "icon": "https://icons.duckduckgo.com/ip3/david-sam.tech.ico",
     "slug": "david-sam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1544,
@@ -617,6 +617,7 @@
     "timeMonth": 1508,
     "timeYear": 1544,
     "dailyMinutesDown": {
+      "2024-02-14": 1,
       "2023-11-07": 17,
       "2023-10-19": 25
     }
