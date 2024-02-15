@@ -103,9 +103,6 @@ sites:
   - name: ePlus Radio (old)
     url: https://old-radio.eplus.dev
     
-  - name: David ❤️ Sam
-    url: https://david-sam.tech
-    
   - name: David ❤️ Sam (Backup)
     url: https://dev-david-sam.pantheonsite.io
     
