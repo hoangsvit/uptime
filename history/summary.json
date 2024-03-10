@@ -385,18 +385,20 @@
     "url": "https://instagram.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/instagram.eplus.dev.ico",
     "slug": "e-plus-instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 22,
-    "timeWeek": 106,
-    "timeMonth": 114,
-    "timeYear": 217,
-    "dailyMinutesDown": {}
+    "time": 214,
+    "timeDay": 49,
+    "timeWeek": 101,
+    "timeMonth": 112,
+    "timeYear": 214,
+    "dailyMinutesDown": {
+      "2024-03-10": 0
+    }
   },
   {
     "name": "ePlus CDN",
