@@ -65,9 +65,6 @@ sites:
   - name: ePlus Dashboard
     url: https://dashboard.eplus.dev
 
-  - name: ePlus Instagram
-    url: https://instagram.eplus.dev
-
   - name: ePlus CDN
     url: https://cdn.eplus.dev
 
