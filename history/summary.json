@@ -27,18 +27,16 @@
     "slug": "e-plus-radio",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
     "timeDay": 177,
     "timeWeek": 160,
     "timeMonth": 157,
     "timeYear": 160,
-    "dailyMinutesDown": {
-      "2024-03-16": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Xe",
@@ -182,18 +180,16 @@
     "slug": "e-plus-json-crack",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
     "timeDay": 237,
     "timeWeek": 125,
     "timeMonth": 152,
     "timeYear": 168,
-    "dailyMinutesDown": {
-      "2024-03-16": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ePlus JSON Crack Plus",
@@ -318,19 +314,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tools.eplus.dev.ico",
     "slug": "e-plus-dev-tools",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 179,
     "timeDay": 162,
     "timeWeek": 127,
     "timeMonth": 178,
     "timeYear": 179,
-    "dailyMinutesDown": {
-      "2024-03-16": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ePlus Markdown",
@@ -356,19 +350,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/draw.eplus.dev.ico",
     "slug": "e-plus-draw",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 151,
     "timeDay": 106,
     "timeWeek": 109,
     "timeMonth": 122,
     "timeYear": 151,
-    "dailyMinutesDown": {
-      "2024-03-16": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ePlus Dashboard",
@@ -376,19 +368,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.eplus.dev.ico",
     "slug": "e-plus-dashboard",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 146,
     "timeDay": 104,
     "timeWeek": 219,
     "timeMonth": 157,
     "timeYear": 146,
-    "dailyMinutesDown": {
-      "2024-03-16": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ePlus CDN",
@@ -602,37 +592,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/old-radio.eplus.dev.ico",
     "slug": "e-plus-radio-old",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 140,
     "timeDay": 104,
     "timeWeek": 172,
     "timeMonth": 155,
     "timeYear": 140,
-    "dailyMinutesDown": {
-      "2024-03-16": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "David ❤️ Sam (Backup)",
     "url": "https://dev-david-sam.pantheonsite.io",
     "icon": "https://icons.duckduckgo.com/ip3/dev-david-sam.pantheonsite.io.ico",
     "slug": "david-sam-backup",
-    "status": "up",
+    "status": "down",
     "uptime": "98.49%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "98.49%",
-    "time": 2213,
-    "timeDay": 0,
-    "timeWeek": 2623,
-    "timeMonth": 2077,
-    "timeYear": 2213,
+    "time": 2212,
+    "timeDay": 1756,
+    "timeWeek": 2544,
+    "timeMonth": 2067,
+    "timeYear": 2212,
     "dailyMinutesDown": {
+      "2024-03-16": 0,
       "2024-02-29": 16,
       "2024-02-21": 36,
       "2024-02-20": 7,
@@ -675,11 +664,11 @@
     "icon": "https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/img/icon/render-favicon-32x32.png",
     "slug": "laravel-10x-on-render",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.40%",
+    "uptimeYear": "99.41%",
     "time": 601,
     "timeDay": 0,
     "timeWeek": 330,
