@@ -459,18 +459,20 @@
     "url": "https://portfolio.eplus.dev",
     "icon": "https://assets-global.website-files.com/6540c35344425ec153655b43/6540c35444425ec153655bee_favicon-dashflow-webflow-template.svg",
     "slug": "e-plus-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 0,
-    "timeWeek": 198,
-    "timeMonth": 201,
-    "timeYear": 197,
-    "dailyMinutesDown": {}
+    "time": 195,
+    "timeDay": 53,
+    "timeWeek": 174,
+    "timeMonth": 195,
+    "timeYear": 195,
+    "dailyMinutesDown": {
+      "2024-04-03": 0
+    }
   },
   {
     "name": "ePlus Mailpit",
