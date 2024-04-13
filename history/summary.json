@@ -160,9 +160,9 @@
     "slug": "e-plus-analytics",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 276,
     "timeDay": 619,
@@ -170,7 +170,6 @@
     "timeMonth": 312,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2024-04-12": 10,
       "2023-10-27": 19
     }
   },
