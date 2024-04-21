@@ -25,20 +25,18 @@
     "url": "https://radio.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/radio.eplus.dev.ico",
     "slug": "e-plus-radio",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 93,
-    "timeWeek": 108,
-    "timeMonth": 110,
+    "timeDay": 88,
+    "timeWeek": 105,
+    "timeMonth": 109,
     "timeYear": 155,
-    "dailyMinutesDown": {
-      "2024-04-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Xe",
@@ -623,7 +621,7 @@
     "uptimeMonth": "96.91%",
     "uptimeYear": "98.32%",
     "time": 2175,
-    "timeDay": 1627,
+    "timeDay": 1509,
     "timeWeek": 2675,
     "timeMonth": 2053,
     "timeYear": 2175,
