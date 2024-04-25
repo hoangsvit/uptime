@@ -100,6 +100,9 @@ sites:
   - name: ePlus Cronjob
     url: https://cronjob.eplus.dev
 
+  - name: ePlus Metrics
+    url: https://metrics.eplus.dev
+
   - name: ePlus Radio (old)
     url: https://old-radio.eplus.dev
     
