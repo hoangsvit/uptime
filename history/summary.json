@@ -33,8 +33,8 @@
     "uptimeYear": "100.00%",
     "time": 152,
     "timeDay": 0,
-    "timeWeek": 137,
-    "timeMonth": 116,
+    "timeWeek": 88,
+    "timeMonth": 118,
     "timeYear": 152,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "uptimeYear": "100.00%",
     "time": 381,
     "timeDay": 0,
-    "timeWeek": 244,
+    "timeWeek": 274,
     "timeMonth": 290,
     "timeYear": 381,
     "dailyMinutesDown": {}
@@ -69,7 +69,7 @@
     "uptimeYear": "100.00%",
     "time": 148,
     "timeDay": 0,
-    "timeWeek": 94,
+    "timeWeek": 98,
     "timeMonth": 144,
     "timeYear": 148,
     "dailyMinutesDown": {}
@@ -87,7 +87,7 @@
     "uptimeYear": "100.00%",
     "time": 79,
     "timeDay": 0,
-    "timeWeek": 77,
+    "timeWeek": 81,
     "timeMonth": 74,
     "timeYear": 79,
     "dailyMinutesDown": {}
@@ -105,7 +105,7 @@
     "uptimeYear": "100.00%",
     "time": 113,
     "timeDay": 0,
-    "timeWeek": 69,
+    "timeWeek": 63,
     "timeMonth": 96,
     "timeYear": 113,
     "dailyMinutesDown": {}
@@ -123,7 +123,7 @@
     "uptimeYear": "100.00%",
     "time": 120,
     "timeDay": 0,
-    "timeWeek": 73,
+    "timeWeek": 58,
     "timeMonth": 101,
     "timeYear": 120,
     "dailyMinutesDown": {}
@@ -134,14 +134,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/graphql-studio.eplus.dev.ico",
     "slug": "graphql-studio",
     "status": "up",
-    "uptime": "98.51%",
+    "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.51%",
+    "uptimeYear": "98.52%",
     "time": 115,
     "timeDay": 0,
-    "timeWeek": 67,
+    "timeWeek": 62,
     "timeMonth": 96,
     "timeYear": 115,
     "dailyMinutesDown": {
@@ -166,7 +166,7 @@
     "uptimeYear": "100.00%",
     "time": 276,
     "timeDay": 0,
-    "timeWeek": 204,
+    "timeWeek": 187,
     "timeMonth": 271,
     "timeYear": 276,
     "dailyMinutesDown": {
@@ -186,7 +186,7 @@
     "uptimeYear": "100.00%",
     "time": 160,
     "timeDay": 0,
-    "timeWeek": 73,
+    "timeWeek": 71,
     "timeMonth": 121,
     "timeYear": 160,
     "dailyMinutesDown": {}
@@ -204,7 +204,7 @@
     "uptimeYear": "99.99%",
     "time": 110,
     "timeDay": 0,
-    "timeWeek": 83,
+    "timeWeek": 86,
     "timeMonth": 99,
     "timeYear": 110,
     "dailyMinutesDown": {
@@ -224,7 +224,7 @@
     "uptimeYear": "99.96%",
     "time": 156,
     "timeDay": 0,
-    "timeWeek": 50,
+    "timeWeek": 46,
     "timeMonth": 128,
     "timeYear": 156,
     "dailyMinutesDown": {
@@ -245,7 +245,7 @@
     "uptimeYear": "99.96%",
     "time": 475,
     "timeDay": 0,
-    "timeWeek": 136,
+    "timeWeek": 140,
     "timeMonth": 621,
     "timeYear": 475,
     "dailyMinutesDown": {
@@ -266,7 +266,7 @@
     "uptimeYear": "100.00%",
     "time": 129,
     "timeDay": 0,
-    "timeWeek": 73,
+    "timeWeek": 68,
     "timeMonth": 128,
     "timeYear": 129,
     "dailyMinutesDown": {}
@@ -284,7 +284,7 @@
     "uptimeYear": "100.00%",
     "time": 79,
     "timeDay": 0,
-    "timeWeek": 77,
+    "timeWeek": 81,
     "timeMonth": 74,
     "timeYear": 79,
     "dailyMinutesDown": {}
@@ -302,7 +302,7 @@
     "uptimeYear": "99.99%",
     "time": 666,
     "timeDay": 0,
-    "timeWeek": 336,
+    "timeWeek": 330,
     "timeMonth": 327,
     "timeYear": 666,
     "dailyMinutesDown": {
@@ -315,14 +315,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/tools.eplus.dev.ico",
     "slug": "e-plus-dev-tools",
     "status": "up",
-    "uptime": "99.13%",
+    "uptime": "99.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.13%",
+    "uptimeYear": "99.14%",
     "time": 160,
     "timeDay": 0,
-    "timeWeek": 323,
+    "timeWeek": 398,
     "timeMonth": 174,
     "timeYear": 160,
     "dailyMinutesDown": {
@@ -343,7 +343,7 @@
     "uptimeYear": "100.00%",
     "time": 115,
     "timeDay": 0,
-    "timeWeek": 56,
+    "timeWeek": 55,
     "timeMonth": 80,
     "timeYear": 115,
     "dailyMinutesDown": {}
@@ -361,7 +361,7 @@
     "uptimeYear": "100.00%",
     "time": 147,
     "timeDay": 0,
-    "timeWeek": 179,
+    "timeWeek": 193,
     "timeMonth": 149,
     "timeYear": 147,
     "dailyMinutesDown": {}
@@ -379,7 +379,7 @@
     "uptimeYear": "100.00%",
     "time": 149,
     "timeDay": 0,
-    "timeWeek": 65,
+    "timeWeek": 59,
     "timeMonth": 114,
     "timeYear": 149,
     "dailyMinutesDown": {}
@@ -397,7 +397,7 @@
     "uptimeYear": "100.00%",
     "time": 94,
     "timeDay": 0,
-    "timeWeek": 90,
+    "timeWeek": 84,
     "timeMonth": 93,
     "timeYear": 94,
     "dailyMinutesDown": {}
@@ -415,7 +415,7 @@
     "uptimeYear": "100.00%",
     "time": 184,
     "timeDay": 0,
-    "timeWeek": 149,
+    "timeWeek": 148,
     "timeMonth": 160,
     "timeYear": 184,
     "dailyMinutesDown": {}
@@ -432,8 +432,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 910,
-    "timeDay": 1171,
-    "timeWeek": 525,
+    "timeDay": 0,
+    "timeWeek": 583,
     "timeMonth": 872,
     "timeYear": 910,
     "dailyMinutesDown": {}
@@ -471,7 +471,7 @@
     "uptimeYear": "100.00%",
     "time": 185,
     "timeDay": 0,
-    "timeWeek": 93,
+    "timeWeek": 94,
     "timeMonth": 161,
     "timeYear": 185,
     "dailyMinutesDown": {}
@@ -510,7 +510,7 @@
     "uptimeYear": "99.95%",
     "time": 343,
     "timeDay": 0,
-    "timeWeek": 365,
+    "timeWeek": 355,
     "timeMonth": 364,
     "timeYear": 343,
     "dailyMinutesDown": {
@@ -532,7 +532,7 @@
     "uptimeYear": "100.00%",
     "time": 95,
     "timeDay": 0,
-    "timeWeek": 74,
+    "timeWeek": 78,
     "timeMonth": 80,
     "timeYear": 95,
     "dailyMinutesDown": {}
@@ -550,7 +550,7 @@
     "uptimeYear": "100.00%",
     "time": 317,
     "timeDay": 0,
-    "timeWeek": 350,
+    "timeWeek": 363,
     "timeMonth": 389,
     "timeYear": 317,
     "dailyMinutesDown": {}
@@ -568,7 +568,7 @@
     "uptimeYear": "100.00%",
     "time": 94,
     "timeDay": 0,
-    "timeWeek": 64,
+    "timeWeek": 61,
     "timeMonth": 86,
     "timeYear": 94,
     "dailyMinutesDown": {}
@@ -586,7 +586,7 @@
     "uptimeYear": "100.00%",
     "time": 691,
     "timeDay": 0,
-    "timeWeek": 684,
+    "timeWeek": 678,
     "timeMonth": 693,
     "timeYear": 691,
     "dailyMinutesDown": {}
@@ -604,7 +604,7 @@
     "uptimeYear": "100.00%",
     "time": 85,
     "timeDay": 0,
-    "timeWeek": 57,
+    "timeWeek": 53,
     "timeMonth": 85,
     "timeYear": 85,
     "dailyMinutesDown": {}
@@ -622,7 +622,7 @@
     "uptimeYear": "100.00%",
     "time": 137,
     "timeDay": 0,
-    "timeWeek": 87,
+    "timeWeek": 90,
     "timeMonth": 114,
     "timeYear": 137,
     "dailyMinutesDown": {}
@@ -633,14 +633,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-david-sam.pantheonsite.io.ico",
     "slug": "david-sam-backup",
     "status": "up",
-    "uptime": "98.50%",
+    "uptime": "98.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.50%",
+    "uptimeYear": "98.51%",
     "time": 2149,
     "timeDay": 0,
-    "timeWeek": 1537,
+    "timeWeek": 1567,
     "timeMonth": 1844,
     "timeYear": 2149,
     "dailyMinutesDown": {
@@ -682,7 +682,7 @@
     "uptimeYear": "100.00%",
     "time": 1316,
     "timeDay": 0,
-    "timeWeek": 1360,
+    "timeWeek": 1368,
     "timeMonth": 1382,
     "timeYear": 1316,
     "dailyMinutesDown": {}
@@ -700,7 +700,7 @@
     "uptimeYear": "99.54%",
     "time": 678,
     "timeDay": 0,
-    "timeWeek": 735,
+    "timeWeek": 857,
     "timeMonth": 552,
     "timeYear": 678,
     "dailyMinutesDown": {
