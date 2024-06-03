@@ -481,9 +481,9 @@
     "url": "https://mailpit.eplus.dev",
     "icon": "https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/assets/subdomain/mailpit/favicon.svg",
     "slug": "e-plus-mailpit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -493,6 +493,7 @@
     "timeMonth": 625,
     "timeYear": 638,
     "dailyMinutesDown": {
+      "2024-06-03": 0,
       "2024-02-21": 15,
       "2023-09-22": 49
     }
