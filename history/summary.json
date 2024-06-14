@@ -134,11 +134,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/graphql-studio.eplus.dev.ico",
     "slug": "graphql-studio",
     "status": "up",
-    "uptime": "98.63%",
+    "uptime": "98.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.63%",
+    "uptimeYear": "98.64%",
     "time": 115,
     "timeDay": 222,
     "timeWeek": 126,
@@ -443,9 +443,9 @@
     "url": "https://updown.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/updown.eplus.dev.ico",
     "slug": "e-plus-updown",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -455,6 +455,7 @@
     "timeMonth": 795,
     "timeYear": 784,
     "dailyMinutesDown": {
+      "2024-06-14": 1,
       "2024-06-12": 17,
       "2024-02-07": 55
     }
