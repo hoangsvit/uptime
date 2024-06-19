@@ -593,6 +593,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "ePlus Drawd DB",
+    "url": "https://drawdb.eplus.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/drawdb.eplus.dev.ico",
+    "slug": "e-plus-drawd-db",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "ePlus Metrics",
     "url": "https://metrics.eplus.dev",
     "icon": "https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/assets/subdomain/metrics/favicon.ico",

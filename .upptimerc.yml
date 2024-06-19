@@ -100,6 +100,9 @@ sites:
   - name: ePlus Cronjob
     url: https://cronjob.eplus.dev
 
+  - name: ePlus Drawd DB
+    url: https://drawdb.eplus.dev
+
   - name: ePlus Metrics
     url: https://metrics.eplus.dev
     icon: https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/assets/subdomain/metrics/favicon.ico
