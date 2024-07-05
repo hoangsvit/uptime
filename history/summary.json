@@ -240,9 +240,9 @@
     "url": "https://air.eplus.dev",
     "icon": "https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/img/icon/airdrop.png",
     "slug": "e-plus-air-drop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -252,6 +252,7 @@
     "timeMonth": 210,
     "timeYear": 425,
     "dailyMinutesDown": {
+      "2024-07-05": 0,
       "2024-04-03": 59,
       "2024-03-01": 25
     }
