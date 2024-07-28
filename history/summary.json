@@ -376,18 +376,20 @@
     "url": "https://dashboard.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.eplus.dev.ico",
     "slug": "e-plus-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 0,
-    "timeWeek": 116,
-    "timeMonth": 184,
+    "timeDay": 142,
+    "timeWeek": 121,
+    "timeMonth": 181,
     "timeYear": 155,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-28": 0
+    }
   },
   {
     "name": "ePlus CDN",
