@@ -145,7 +145,7 @@
     "timeDay": 0,
     "timeWeek": 110,
     "timeMonth": 105,
-    "timeYear": 114,
+    "timeYear": 113,
     "dailyMinutesDown": {
       "2023-10-03": 106,
       "2023-10-02": 1440,
@@ -192,7 +192,7 @@
     "timeDay": 0,
     "timeWeek": 146,
     "timeMonth": 163,
-    "timeYear": 159,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   },
   {
@@ -521,7 +521,7 @@
     "timeDay": 0,
     "timeWeek": 368,
     "timeMonth": 436,
-    "timeYear": 362,
+    "timeYear": 363,
     "dailyMinutesDown": {
       "2024-03-22": 43,
       "2024-03-07": 63,
@@ -659,18 +659,19 @@
     "url": "https://dev-david-sam.pantheonsite.io",
     "icon": "https://icons.duckduckgo.com/ip3/dev-david-sam.pantheonsite.io.ico",
     "slug": "david-sam-backup",
-    "status": "up",
+    "status": "down",
     "uptime": "98.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.51%",
-    "time": 2056,
-    "timeDay": 0,
-    "timeWeek": 2073,
-    "timeMonth": 1637,
-    "timeYear": 2048,
+    "time": 2076,
+    "timeDay": 10364,
+    "timeWeek": 4146,
+    "timeMonth": 2053,
+    "timeYear": 2069,
     "dailyMinutesDown": {
+      "2024-08-21": 0,
       "2024-07-24": 16,
       "2024-07-02": 233,
       "2024-07-01": 1440,
@@ -716,7 +717,7 @@
     "timeDay": 0,
     "timeWeek": 1259,
     "timeMonth": 1282,
-    "timeYear": 1311,
+    "timeYear": 1312,
     "dailyMinutesDown": {}
   },
   {
@@ -734,7 +735,7 @@
     "timeDay": 0,
     "timeWeek": 629,
     "timeMonth": 476,
-    "timeYear": 700,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2024-03-29": 24,
       "2024-02-08": 41,
