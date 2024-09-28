@@ -9,6 +9,9 @@ sites:
   - name: ePlus Radio
     url: https://radio.eplus.dev
 
+  - name: ePlus Radio (New)
+    url: https://new-radio.eplus.dev
+
   - name: Xe
     url: https://xe.eplus.dev
     
