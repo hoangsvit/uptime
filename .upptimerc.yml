@@ -80,10 +80,6 @@ sites:
   - name: ePlus updown
     url: https://updown.eplus.dev
 
-  - name: ePlus Portfolio
-    url: https://portfolio.eplus.dev
-    icon: https://assets-global.website-files.com/6540c35344425ec153655b43/6540c35444425ec153655bee_favicon-dashflow-webflow-template.svg
-
   - name: ePlus Mailpit
     url: https://mailpit.eplus.dev
     icon: https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/assets/subdomain/mailpit/favicon.svg
