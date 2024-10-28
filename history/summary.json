@@ -46,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/new-radio.eplus.dev.ico",
     "slug": "e-plus-radio-new",
     "status": "up",
-    "uptime": "87.72%",
+    "uptime": "88.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.72%",
-    "uptimeYear": "87.72%",
+    "uptimeMonth": "88.02%",
+    "uptimeYear": "88.02%",
     "time": 371,
     "timeDay": 0,
     "timeWeek": 174,
@@ -182,12 +182,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 296,
     "timeDay": 0,
     "timeWeek": 288,
     "timeMonth": 387,
-    "timeYear": 305,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2024-07-28": 47,
       "2024-07-04": 17
@@ -246,7 +246,7 @@
     "timeDay": 0,
     "timeWeek": 195,
     "timeMonth": 195,
-    "timeYear": 141,
+    "timeYear": 142,
     "dailyMinutesDown": {
       "2023-12-28": 134,
       "2023-12-27": 27
@@ -694,7 +694,7 @@
     "timeDay": 0,
     "timeWeek": 876,
     "timeMonth": 1816,
-    "timeYear": 2034,
+    "timeYear": 2035,
     "dailyMinutesDown": {
       "2024-10-25": 270,
       "2024-10-24": 1440,
@@ -738,18 +738,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/namnonglam.edu.vn.ico",
     "slug": "nam-nong-lam",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.84%",
+    "uptimeDay": "28.67%",
+    "uptimeWeek": "89.81%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "99.80%",
     "time": 1299,
     "timeDay": 726,
     "timeWeek": 1150,
     "timeMonth": 1161,
-    "timeYear": 1345,
+    "timeYear": 1346,
     "dailyMinutesDown": {
-      "2024-10-27": 0
+      "2024-10-28": 96,
+      "2024-10-27": 931
     }
   },
   {
@@ -767,7 +768,7 @@
     "timeDay": 0,
     "timeWeek": 393,
     "timeMonth": 382,
-    "timeYear": 715,
+    "timeYear": 714,
     "dailyMinutesDown": {
       "2024-03-29": 24,
       "2024-02-08": 41,
