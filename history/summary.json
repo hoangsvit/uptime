@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 143,
     "timeMonth": 191,
-    "timeYear": 177,
+    "timeYear": 176,
     "dailyMinutesDown": {
       "2024-01-17": 23,
       "2023-11-20": 16
@@ -46,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/new-radio.eplus.dev.ico",
     "slug": "e-plus-radio-new",
     "status": "up",
-    "uptime": "89.46%",
+    "uptime": "89.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.21%",
-    "uptimeYear": "89.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "89.76%",
     "time": 356,
     "timeDay": 0,
     "timeWeek": 168,
@@ -208,7 +208,7 @@
     "timeDay": 0,
     "timeWeek": 39,
     "timeMonth": 231,
-    "timeYear": 157,
+    "timeYear": 156,
     "dailyMinutesDown": {}
   },
   {
@@ -289,7 +289,7 @@
     "timeDay": 0,
     "timeWeek": 1411,
     "timeMonth": 331,
-    "timeYear": 134,
+    "timeYear": 133,
     "dailyMinutesDown": {}
   },
   {
@@ -325,7 +325,7 @@
     "timeDay": 0,
     "timeWeek": 140,
     "timeMonth": 198,
-    "timeYear": 553,
+    "timeYear": 551,
     "dailyMinutesDown": {
       "2024-01-17": 23
     }
@@ -505,7 +505,7 @@
     "timeDay": 0,
     "timeWeek": 546,
     "timeMonth": 627,
-    "timeYear": 641,
+    "timeYear": 642,
     "dailyMinutesDown": {
       "2024-09-19": 100,
       "2024-09-18": 140,
@@ -604,7 +604,7 @@
     "timeDay": 0,
     "timeWeek": 794,
     "timeMonth": 754,
-    "timeYear": 708,
+    "timeYear": 707,
     "dailyMinutesDown": {}
   },
   {
@@ -687,14 +687,14 @@
     "status": "up",
     "uptime": "98.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.31%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "94.56%",
     "uptimeYear": "98.01%",
     "time": 2088,
     "timeDay": 0,
-    "timeWeek": 1429,
+    "timeWeek": 1294,
     "timeMonth": 1829,
-    "timeYear": 2022,
+    "timeYear": 2024,
     "dailyMinutesDown": {
       "2024-10-25": 270,
       "2024-10-24": 1440,
@@ -738,7 +738,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/namnonglam.edu.vn.ico",
     "slug": "nam-nong-lam",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.64%",
     "uptimeMonth": "97.62%",
@@ -768,7 +768,7 @@
     "timeDay": 0,
     "timeWeek": 291,
     "timeMonth": 381,
-    "timeYear": 714,
+    "timeYear": 715,
     "dailyMinutesDown": {
       "2024-03-29": 24,
       "2024-02-08": 41,
