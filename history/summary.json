@@ -46,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/new-radio.eplus.dev.ico",
     "slug": "e-plus-radio-new",
     "status": "up",
-    "uptime": "91.49%",
+    "uptime": "91.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.49%",
+    "uptimeYear": "91.70%",
     "time": 316,
     "timeDay": 0,
     "timeWeek": 145,
@@ -226,7 +226,7 @@
     "timeDay": 0,
     "timeWeek": 153,
     "timeMonth": 113,
-    "timeYear": 109,
+    "timeYear": 110,
     "dailyMinutesDown": {
       "2024-01-17": 23
     }
@@ -325,7 +325,7 @@
     "timeDay": 0,
     "timeWeek": 161,
     "timeMonth": 147,
-    "timeYear": 546,
+    "timeYear": 544,
     "dailyMinutesDown": {
       "2024-01-17": 23
     }
@@ -396,12 +396,12 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
     "timeDay": 0,
     "timeWeek": 109,
-    "timeMonth": 159,
+    "timeMonth": 152,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2024-10-09": 18
@@ -454,12 +454,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 1077,
     "timeDay": 0,
     "timeWeek": 349,
-    "timeMonth": 988,
+    "timeMonth": 1004,
     "timeYear": 1077,
     "dailyMinutesDown": {
       "2024-10-17": 29,
@@ -475,12 +475,12 @@
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.89%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
     "time": 902,
     "timeDay": 0,
     "timeWeek": 950,
-    "timeMonth": 916,
+    "timeMonth": 944,
     "timeYear": 902,
     "dailyMinutesDown": {
       "2024-11-06": 17,
@@ -695,7 +695,7 @@
     "timeDay": 0,
     "timeWeek": 1478,
     "timeMonth": 1707,
-    "timeYear": 2026,
+    "timeYear": 2028,
     "dailyMinutesDown": {
       "2024-10-25": 270,
       "2024-10-24": 1440,
@@ -748,7 +748,7 @@
     "timeDay": 0,
     "timeWeek": 1283,
     "timeMonth": 1171,
-    "timeYear": 1352,
+    "timeYear": 1353,
     "dailyMinutesDown": {
       "2024-10-28": 114,
       "2024-10-27": 931
@@ -769,7 +769,7 @@
     "timeDay": 0,
     "timeWeek": 364,
     "timeMonth": 368,
-    "timeYear": 708,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2024-03-29": 24,
       "2024-02-08": 41,
