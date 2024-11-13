@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 160,
     "timeMonth": 191,
-    "timeYear": 175,
+    "timeYear": 176,
     "dailyMinutesDown": {
       "2024-01-17": 23,
       "2023-11-20": 16
@@ -35,7 +35,7 @@
     "timeDay": 0,
     "timeWeek": 99,
     "timeMonth": 132,
-    "timeYear": 177,
+    "timeYear": 178,
     "dailyMinutesDown": {
       "2024-06-19": 32
     }
@@ -46,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/new-radio.eplus.dev.ico",
     "slug": "e-plus-radio-new",
     "status": "up",
-    "uptime": "92.22%",
+    "uptime": "92.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.22%",
+    "uptimeYear": "92.24%",
     "time": 306,
     "timeDay": 0,
     "timeWeek": 153,
@@ -169,7 +169,7 @@
     "timeDay": 0,
     "timeWeek": 212,
     "timeMonth": 155,
-    "timeYear": 116,
+    "timeYear": 115,
     "dailyMinutesDown": {}
   },
   {
@@ -187,7 +187,7 @@
     "timeDay": 0,
     "timeWeek": 244,
     "timeMonth": 272,
-    "timeYear": 293,
+    "timeYear": 292,
     "dailyMinutesDown": {
       "2024-07-28": 47,
       "2024-07-04": 17
@@ -246,7 +246,7 @@
     "timeDay": 0,
     "timeWeek": 85,
     "timeMonth": 159,
-    "timeYear": 141,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2023-12-28": 134,
       "2023-12-27": 27
@@ -325,7 +325,7 @@
     "timeDay": 0,
     "timeWeek": 100,
     "timeMonth": 144,
-    "timeYear": 538,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2024-01-17": 23
     }
@@ -472,18 +472,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/updown.eplus.dev.ico",
     "slug": "e-plus-updown",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.94%",
     "time": 902,
     "timeDay": 1082,
     "timeWeek": 976,
     "timeMonth": 965,
     "timeYear": 902,
     "dailyMinutesDown": {
-      "2024-11-12": 10,
       "2024-11-06": 17,
       "2024-10-09": 31,
       "2024-09-24": 124,
@@ -529,7 +528,7 @@
     "timeDay": 0,
     "timeWeek": 432,
     "timeMonth": 532,
-    "timeYear": 405,
+    "timeYear": 406,
     "dailyMinutesDown": {
       "2024-09-09": 119,
       "2024-03-22": 43,
@@ -749,7 +748,7 @@
     "timeDay": 0,
     "timeWeek": 1341,
     "timeMonth": 1180,
-    "timeYear": 1354,
+    "timeYear": 1355,
     "dailyMinutesDown": {
       "2024-10-28": 114,
       "2024-10-27": 931
@@ -770,7 +769,7 @@
     "timeDay": 0,
     "timeWeek": 405,
     "timeMonth": 368,
-    "timeYear": 708,
+    "timeYear": 710,
     "dailyMinutesDown": {
       "2024-03-29": 24,
       "2024-02-08": 41,
