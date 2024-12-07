@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/new-radio.eplus.dev.ico",
     "slug": "e-plus-radio-new",
     "status": "up",
-    "uptime": "94.89%",
+    "uptime": "94.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.89%",
+    "uptimeYear": "94.93%",
     "time": 255,
     "timeDay": 0,
     "timeWeek": 232,
@@ -245,7 +245,7 @@
     "timeDay": 0,
     "timeWeek": 188,
     "timeMonth": 144,
-    "timeYear": 142,
+    "timeYear": 141,
     "dailyMinutesDown": {
       "2023-12-28": 134,
       "2023-12-27": 27
@@ -324,7 +324,7 @@
     "timeDay": 0,
     "timeWeek": 157,
     "timeMonth": 134,
-    "timeYear": 503,
+    "timeYear": 502,
     "dailyMinutesDown": {
       "2024-01-17": 23
     }
@@ -568,7 +568,7 @@
     "timeDay": 0,
     "timeWeek": 337,
     "timeMonth": 340,
-    "timeYear": 389,
+    "timeYear": 388,
     "dailyMinutesDown": {}
   },
   {
@@ -685,7 +685,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-david-sam.pantheonsite.io.ico",
     "slug": "david-sam-backup",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -694,7 +694,7 @@
     "timeDay": 0,
     "timeWeek": 2887,
     "timeMonth": 2541,
-    "timeYear": 1951,
+    "timeYear": 1935,
     "dailyMinutesDown": {
       "2024-10-25": 270,
       "2024-10-24": 1440,
@@ -767,7 +767,7 @@
     "timeDay": 0,
     "timeWeek": 401,
     "timeMonth": 378,
-    "timeYear": 688,
+    "timeYear": 687,
     "dailyMinutesDown": {
       "2024-03-29": 24,
       "2024-02-08": 41,
