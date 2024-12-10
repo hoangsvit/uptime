@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/new-radio.eplus.dev.ico",
     "slug": "e-plus-radio-new",
     "status": "up",
-    "uptime": "95.07%",
+    "uptime": "95.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.07%",
+    "uptimeYear": "95.14%",
     "time": 255,
     "timeDay": 0,
     "timeWeek": 242,
@@ -186,7 +186,7 @@
     "timeDay": 0,
     "timeWeek": 160,
     "timeMonth": 296,
-    "timeYear": 297,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2024-07-28": 47,
       "2024-07-04": 17
@@ -225,7 +225,7 @@
     "timeDay": 0,
     "timeWeek": 108,
     "timeMonth": 114,
-    "timeYear": 112,
+    "timeYear": 111,
     "dailyMinutesDown": {
       "2024-01-17": 23
     }
@@ -324,7 +324,7 @@
     "timeDay": 0,
     "timeWeek": 95,
     "timeMonth": 138,
-    "timeYear": 501,
+    "timeYear": 499,
     "dailyMinutesDown": {
       "2024-01-17": 23
     }
@@ -550,7 +550,7 @@
     "timeDay": 0,
     "timeWeek": 101,
     "timeMonth": 110,
-    "timeYear": 99,
+    "timeYear": 98,
     "dailyMinutesDown": {}
   },
   {
@@ -685,7 +685,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-david-sam.pantheonsite.io.ico",
     "slug": "david-sam-backup",
     "status": "up",
-    "uptime": "98.46%",
+    "uptime": "98.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -694,7 +694,7 @@
     "timeDay": 0,
     "timeWeek": 1316,
     "timeMonth": 2604,
-    "timeYear": 1936,
+    "timeYear": 1935,
     "dailyMinutesDown": {
       "2024-10-25": 270,
       "2024-10-24": 1440,
@@ -746,7 +746,7 @@
     "timeDay": 0,
     "timeWeek": 1134,
     "timeMonth": 1246,
-    "timeYear": 1351,
+    "timeYear": 1350,
     "dailyMinutesDown": {
       "2024-10-28": 114,
       "2024-10-27": 931
@@ -767,7 +767,7 @@
     "timeDay": 0,
     "timeWeek": 469,
     "timeMonth": 373,
-    "timeYear": 690,
+    "timeYear": 689,
     "dailyMinutesDown": {
       "2024-03-29": 24,
       "2024-02-08": 41,
