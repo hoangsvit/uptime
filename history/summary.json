@@ -46,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/new-radio.eplus.dev.ico",
     "slug": "e-plus-radio-new",
     "status": "up",
-    "uptime": "95.39%",
+    "uptime": "95.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.39%",
+    "uptimeYear": "95.45%",
     "time": 254,
     "timeDay": 0,
     "timeWeek": 227,
@@ -327,7 +327,7 @@
     "timeDay": 0,
     "timeWeek": 283,
     "timeMonth": 151,
-    "timeYear": 493,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2024-01-17": 23
     }
@@ -509,7 +509,7 @@
     "timeDay": 0,
     "timeWeek": 559,
     "timeMonth": 676,
-    "timeYear": 646,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2024-09-19": 100,
       "2024-09-18": 140,
@@ -553,7 +553,7 @@
     "timeDay": 0,
     "timeWeek": 184,
     "timeMonth": 115,
-    "timeYear": 98,
+    "timeYear": 99,
     "dailyMinutesDown": {}
   },
   {
@@ -697,7 +697,7 @@
     "timeDay": 0,
     "timeWeek": 5285,
     "timeMonth": 3041,
-    "timeYear": 1938,
+    "timeYear": 1920,
     "dailyMinutesDown": {
       "2024-10-25": 270,
       "2024-10-24": 1440,
@@ -749,7 +749,7 @@
     "timeDay": 0,
     "timeWeek": 1140,
     "timeMonth": 1243,
-    "timeYear": 1347,
+    "timeYear": 1348,
     "dailyMinutesDown": {
       "2024-10-28": 114,
       "2024-10-27": 931
@@ -770,7 +770,7 @@
     "timeDay": 0,
     "timeWeek": 366,
     "timeMonth": 380,
-    "timeYear": 692,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2024-03-29": 24,
       "2024-02-08": 41,
