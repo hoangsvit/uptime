@@ -38,10 +38,6 @@ sites:
 
   - name: ePlus JSON Crack Plus
     url: https://jsoncrack.eplus.dev
-    
-  - name: ePlus Cors Anywhere
-    url: https://cors-anywhere.eplus.dev
-    icon: https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/img/icon/right-left-duotone.png
 
   - name: ePlus AirDrop
     url: https://air.eplus.dev
