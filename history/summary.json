@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 136,
     "timeMonth": 168,
-    "timeYear": 179,
+    "timeYear": 180,
     "dailyMinutesDown": {
       "2024-12-12": 48,
       "2024-01-17": 23
@@ -35,7 +35,7 @@
     "timeDay": 0,
     "timeWeek": 174,
     "timeMonth": 174,
-    "timeYear": 184,
+    "timeYear": 183,
     "dailyMinutesDown": {
       "2024-06-19": 32
     }
@@ -46,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/new-radio.eplus.dev.ico",
     "slug": "e-plus-radio-new",
     "status": "up",
-    "uptime": "95.93%",
+    "uptime": "95.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.93%",
+    "uptimeYear": "95.97%",
     "time": 232,
     "timeDay": 0,
     "timeWeek": 144,
@@ -210,7 +210,7 @@
     "timeDay": 0,
     "timeWeek": 242,
     "timeMonth": 193,
-    "timeYear": 162,
+    "timeYear": 161,
     "dailyMinutesDown": {}
   },
   {
@@ -270,7 +270,7 @@
     "timeDay": 0,
     "timeWeek": 135,
     "timeMonth": 148,
-    "timeYear": 137,
+    "timeYear": 135,
     "dailyMinutesDown": {}
   },
   {
@@ -306,7 +306,7 @@
     "timeDay": 0,
     "timeWeek": 107,
     "timeMonth": 145,
-    "timeYear": 464,
+    "timeYear": 462,
     "dailyMinutesDown": {
       "2024-01-17": 23
     }
@@ -510,7 +510,7 @@
     "timeDay": 0,
     "timeWeek": 751,
     "timeMonth": 602,
-    "timeYear": 407,
+    "timeYear": 408,
     "dailyMinutesDown": {
       "2024-09-09": 119,
       "2024-03-22": 43,
@@ -550,7 +550,7 @@
     "timeDay": 0,
     "timeWeek": 345,
     "timeMonth": 341,
-    "timeYear": 391,
+    "timeYear": 392,
     "dailyMinutesDown": {}
   },
   {
@@ -667,16 +667,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-david-sam.pantheonsite.io.ico",
     "slug": "david-sam-backup",
     "status": "up",
-    "uptime": "98.50%",
+    "uptime": "98.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "98.53%",
+    "uptimeYear": "98.80%",
     "time": 2101,
     "timeDay": 0,
     "timeWeek": 2404,
     "timeMonth": 2189,
-    "timeYear": 1932,
+    "timeYear": 1937,
     "dailyMinutesDown": {
       "2024-12-16": 45,
       "2024-10-25": 270,
@@ -725,7 +725,7 @@
     "timeDay": 0,
     "timeWeek": 1310,
     "timeMonth": 1220,
-    "timeYear": 1343,
+    "timeYear": 1342,
     "dailyMinutesDown": {
       "2024-10-28": 114,
       "2024-10-27": 931
@@ -737,7 +737,7 @@
     "icon": "https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/img/icon/render-favicon-32x32.png",
     "slug": "laravel-10x-on-render",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -746,7 +746,7 @@
     "timeDay": 0,
     "timeWeek": 568,
     "timeMonth": 451,
-    "timeYear": 696,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2024-03-29": 24,
       "2024-02-08": 41,
