@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/new-radio.eplus.dev.ico",
     "slug": "e-plus-radio-new",
     "status": "up",
-    "uptime": "97.05%",
+    "uptime": "97.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.05%",
+    "uptimeYear": "97.07%",
     "time": 214,
     "timeDay": 0,
     "timeWeek": 113,
@@ -170,7 +170,7 @@
     "timeDay": 0,
     "timeWeek": 120,
     "timeMonth": 140,
-    "timeYear": 117,
+    "timeYear": 118,
     "dailyMinutesDown": {}
   },
   {
@@ -209,7 +209,7 @@
     "timeDay": 0,
     "timeWeek": 246,
     "timeMonth": 203,
-    "timeYear": 162,
+    "timeYear": 161,
     "dailyMinutesDown": {}
   },
   {
@@ -245,7 +245,7 @@
     "timeDay": 0,
     "timeWeek": 221,
     "timeMonth": 251,
-    "timeYear": 410,
+    "timeYear": 411,
     "dailyMinutesDown": {
       "2024-07-09": 16,
       "2024-04-03": 59,
@@ -303,7 +303,7 @@
     "timeDay": 0,
     "timeWeek": 137,
     "timeMonth": 139,
-    "timeYear": 379,
+    "timeYear": 376,
     "dailyMinutesDown": {}
   },
   {
@@ -416,7 +416,7 @@
     "timeDay": 0,
     "timeWeek": 187,
     "timeMonth": 195,
-    "timeYear": 373,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2024-10-04": 22
     }
@@ -436,7 +436,7 @@
     "timeDay": 0,
     "timeWeek": 1488,
     "timeMonth": 1480,
-    "timeYear": 1122,
+    "timeYear": 1125,
     "dailyMinutesDown": {
       "2024-10-17": 29,
       "2024-10-09": 18
@@ -457,7 +457,7 @@
     "timeDay": 0,
     "timeWeek": 815,
     "timeMonth": 814,
-    "timeYear": 895,
+    "timeYear": 896,
     "dailyMinutesDown": {
       "2024-12-06": 28,
       "2024-11-06": 17,
@@ -563,7 +563,7 @@
     "timeDay": 0,
     "timeWeek": 124,
     "timeMonth": 143,
-    "timeYear": 101,
+    "timeYear": 102,
     "dailyMinutesDown": {}
   },
   {
@@ -661,18 +661,19 @@
     "url": "https://dev-david-sam.pantheonsite.io",
     "icon": "https://icons.duckduckgo.com/ip3/dev-david-sam.pantheonsite.io.ico",
     "slug": "david-sam-backup",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.82%",
-    "time": 2093,
-    "timeDay": 0,
-    "timeWeek": 2039,
-    "timeMonth": 2230,
-    "timeYear": 1949,
+    "time": 2079,
+    "timeDay": 85,
+    "timeWeek": 1714,
+    "timeMonth": 2065,
+    "timeYear": 1945,
     "dailyMinutesDown": {
+      "2025-01-26": 0,
       "2024-12-16": 45,
       "2024-10-25": 270,
       "2024-10-24": 1440,
@@ -738,8 +739,8 @@
     "time": 660,
     "timeDay": 0,
     "timeWeek": 402,
-    "timeMonth": 441,
-    "timeYear": 703,
+    "timeMonth": 424,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2024-03-29": 24,
       "2024-02-08": 41,
