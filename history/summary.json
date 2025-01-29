@@ -34,7 +34,7 @@
     "timeDay": 168,
     "timeWeek": 136,
     "timeMonth": 150,
-    "timeYear": 186,
+    "timeYear": 187,
     "dailyMinutesDown": {
       "2024-06-19": 32
     }
@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/new-radio.eplus.dev.ico",
     "slug": "e-plus-radio-new",
     "status": "up",
-    "uptime": "97.12%",
+    "uptime": "97.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.12%",
+    "uptimeYear": "97.13%",
     "time": 207,
     "timeDay": 81,
     "timeWeek": 119,
@@ -188,7 +188,7 @@
     "timeDay": 329,
     "timeWeek": 262,
     "timeMonth": 280,
-    "timeYear": 314,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2024-07-28": 47,
       "2024-07-04": 17
@@ -245,7 +245,7 @@
     "timeDay": 333,
     "timeWeek": 261,
     "timeMonth": 257,
-    "timeYear": 410,
+    "timeYear": 411,
     "dailyMinutesDown": {
       "2024-07-09": 16,
       "2024-04-03": 59,
@@ -303,7 +303,7 @@
     "timeDay": 110,
     "timeWeek": 122,
     "timeMonth": 138,
-    "timeYear": 373,
+    "timeYear": 371,
     "dailyMinutesDown": {}
   },
   {
@@ -321,7 +321,7 @@
     "timeDay": 147,
     "timeWeek": 111,
     "timeMonth": 133,
-    "timeYear": 184,
+    "timeYear": 185,
     "dailyMinutesDown": {
       "2024-04-18": 119,
       "2024-04-17": 1381
@@ -360,7 +360,7 @@
     "timeDay": 170,
     "timeWeek": 90,
     "timeMonth": 181,
-    "timeYear": 154,
+    "timeYear": 155,
     "dailyMinutesDown": {}
   },
   {
@@ -378,7 +378,7 @@
     "timeDay": 156,
     "timeWeek": 120,
     "timeMonth": 267,
-    "timeYear": 165,
+    "timeYear": 166,
     "dailyMinutesDown": {
       "2024-10-09": 18
     }
@@ -406,18 +406,19 @@
     "url": "https://blog.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eplus.dev.ico",
     "slug": "e-plus-blog-blogger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 365,
     "timeDay": 168,
     "timeWeek": 202,
     "timeMonth": 206,
-    "timeYear": 373,
+    "timeYear": 374,
     "dailyMinutesDown": {
+      "2025-01-29": 1,
       "2024-10-04": 22
     }
   },
@@ -436,7 +437,7 @@
     "timeDay": 1429,
     "timeWeek": 1279,
     "timeMonth": 1388,
-    "timeYear": 1123,
+    "timeYear": 1125,
     "dailyMinutesDown": {
       "2024-10-17": 29,
       "2024-10-09": 18
@@ -545,7 +546,7 @@
     "timeDay": 318,
     "timeWeek": 326,
     "timeMonth": 340,
-    "timeYear": 399,
+    "timeYear": 400,
     "dailyMinutesDown": {}
   },
   {
@@ -581,7 +582,7 @@
     "timeDay": 709,
     "timeWeek": 704,
     "timeMonth": 736,
-    "timeYear": 721,
+    "timeYear": 722,
     "dailyMinutesDown": {}
   },
   {
@@ -662,18 +663,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-david-sam.pantheonsite.io.ico",
     "slug": "david-sam-backup",
     "status": "down",
-    "uptime": "98.20%",
+    "uptime": "98.16%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "69.10%",
-    "uptimeMonth": "92.89%",
-    "uptimeYear": "98.22%",
+    "uptimeWeek": "66.64%",
+    "uptimeMonth": "92.32%",
+    "uptimeYear": "98.18%",
     "time": 2069,
     "timeDay": 412,
     "timeWeek": 1160,
     "timeMonth": 1719,
-    "timeYear": 1930,
+    "timeYear": 1931,
     "dailyMinutesDown": {
-      "2025-01-29": 83,
+      "2025-01-29": 331,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 152,
@@ -721,7 +722,7 @@
     "timeDay": 1294,
     "timeWeek": 1260,
     "timeMonth": 1216,
-    "timeYear": 1317,
+    "timeYear": 1315,
     "dailyMinutesDown": {
       "2024-10-28": 114,
       "2024-10-27": 931
@@ -737,12 +738,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 662,
     "timeDay": 332,
     "timeWeek": 514,
     "timeMonth": 477,
-    "timeYear": 701,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2024-03-29": 24,
       "2024-02-08": 41
