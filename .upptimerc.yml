@@ -75,10 +75,6 @@ sites:
   
   - name: ePlus updown
     url: https://updown.eplus.dev
-
-  - name: ePlus Mailpit
-    url: https://mailpit.eplus.dev
-    icon: https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/assets/subdomain/mailpit/favicon.svg
     
   - name: ePlus HUB
     url: https://hub.eplus.dev
