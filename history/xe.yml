@@ -1,7 +1,7 @@
 url: https://xe.eplus.dev
-status: up
-code: 200
-responseTime: 801
-lastUpdated: 2025-02-22T23:19:18.290Z
+status: down
+code: 429
+responseTime: 170
+lastUpdated: 2025-02-24T07:57:55.135Z
 startTime: 2024-02-29T16:45:31.694Z
 generator: Upptime <https://github.com/upptime/upptime>
