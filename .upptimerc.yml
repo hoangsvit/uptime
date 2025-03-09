@@ -5,6 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: ePlus.DEV
     url: https://eplus.dev
+    expectedStatusCodes:
+      - 429
     
   - name: ePlus Radio
     url: https://radio.eplus.dev
@@ -14,7 +16,9 @@ sites:
 
   - name: Xe
     url: https://xe.eplus.dev
-    
+    expectedStatusCodes:
+      - 429
+      
   - name: ePlus News
     url: https://news.eplus.dev
 
