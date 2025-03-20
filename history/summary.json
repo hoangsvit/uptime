@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/eplus.dev.ico",
     "slug": "e-plus-dev",
     "status": "up",
-    "uptime": "97.73%",
+    "uptime": "97.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "57.12%",
@@ -575,18 +575,20 @@
     "url": "https://cronjob.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/cronjob.eplus.dev.ico",
     "slug": "e-plus-cronjob",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 715,
+    "time": 716,
     "timeDay": 0,
     "timeWeek": 711,
     "timeMonth": 747,
     "timeYear": 724,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-20": 1
+    }
   },
   {
     "name": "ePlus Drawd DB",
