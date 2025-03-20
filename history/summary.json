@@ -116,19 +116,19 @@
     "url": "https://news.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/news.eplus.dev.ico",
     "slug": "e-plus-news",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 189,
-    "timeWeek": 226,
-    "timeMonth": 196,
-    "timeYear": 173,
+    "timeDay": 234,
+    "timeWeek": 233,
+    "timeMonth": 199,
+    "timeYear": 174,
     "dailyMinutesDown": {
-      "2025-03-20": 0
+      "2025-03-20": 24
     }
   },
   {
@@ -136,19 +136,19 @@
     "url": "https://top-github-users.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/top-github-users.eplus.dev.ico",
     "slug": "e-plus-top-git-hub-users",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 92,
-    "timeDay": 128,
-    "timeWeek": 98,
-    "timeMonth": 103,
+    "timeDay": 164,
+    "timeWeek": 106,
+    "timeMonth": 105,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2025-03-20": 28
+      "2025-03-20": 51
     }
   },
   {
@@ -307,19 +307,19 @@
     "url": "https://top-github-users.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/top-github-users.eplus.dev.ico",
     "slug": "e-plus-top-git-hub-users",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 92,
-    "timeDay": 128,
-    "timeWeek": 98,
-    "timeMonth": 103,
+    "timeDay": 164,
+    "timeWeek": 106,
+    "timeMonth": 105,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2025-03-20": 28
+      "2025-03-20": 51
     }
   },
   {
@@ -637,19 +637,19 @@
     "url": "https://metrics.eplus.dev",
     "icon": "https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/assets/subdomain/metrics/favicon.ico",
     "slug": "e-plus-metrics",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 105,
-    "timeDay": 155,
-    "timeWeek": 120,
-    "timeMonth": 120,
+    "timeDay": 172,
+    "timeWeek": 129,
+    "timeMonth": 123,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-03-20": 47
+      "2025-03-20": 70
     }
   },
   {
