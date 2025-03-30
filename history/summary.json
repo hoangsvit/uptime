@@ -8,7 +8,7 @@
     "uptime": "97.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "69.40%",
+    "uptimeMonth": "69.41%",
     "uptimeYear": "96.42%",
     "time": 175,
     "timeDay": 0,
@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/new-radio.eplus.dev.ico",
     "slug": "e-plus-radio-new",
     "status": "up",
-    "uptime": "98.06%",
+    "uptime": "98.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.06%",
+    "uptimeYear": "98.07%",
     "time": 199,
     "timeDay": 0,
     "timeWeek": 266,
@@ -86,13 +86,13 @@
     "uptime": "96.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "69.40%",
+    "uptimeMonth": "69.41%",
     "uptimeYear": "96.42%",
     "time": 334,
     "timeDay": 0,
     "timeWeek": 319,
     "timeMonth": 219,
-    "timeYear": 329,
+    "timeYear": 330,
     "dailyMinutesDown": {
       "2025-03-09": 543,
       "2025-03-08": 1440,
@@ -202,7 +202,7 @@
     "timeDay": 0,
     "timeWeek": 200,
     "timeMonth": 156,
-    "timeYear": 126,
+    "timeYear": 125,
     "dailyMinutesDown": {}
   },
   {
@@ -220,7 +220,7 @@
     "timeDay": 0,
     "timeWeek": 437,
     "timeMonth": 364,
-    "timeYear": 365,
+    "timeYear": 366,
     "dailyMinutesDown": {
       "2024-07-28": 47,
       "2024-07-04": 17
@@ -241,7 +241,7 @@
     "timeDay": 0,
     "timeWeek": 349,
     "timeMonth": 271,
-    "timeYear": 182,
+    "timeYear": 183,
     "dailyMinutesDown": {}
   },
   {
@@ -259,7 +259,7 @@
     "timeDay": 0,
     "timeWeek": 143,
     "timeMonth": 132,
-    "timeYear": 115,
+    "timeYear": 116,
     "dailyMinutesDown": {}
   },
   {
@@ -277,7 +277,7 @@
     "timeDay": 0,
     "timeWeek": 547,
     "timeMonth": 354,
-    "timeYear": 462,
+    "timeYear": 464,
     "dailyMinutesDown": {
       "2025-02-16": 162,
       "2024-07-09": 16,
@@ -299,7 +299,7 @@
     "timeDay": 0,
     "timeWeek": 354,
     "timeMonth": 204,
-    "timeYear": 153,
+    "timeYear": 154,
     "dailyMinutesDown": {}
   },
   {
@@ -337,7 +337,7 @@
     "timeDay": 0,
     "timeWeek": 163,
     "timeMonth": 177,
-    "timeYear": 293,
+    "timeYear": 291,
     "dailyMinutesDown": {}
   },
   {
@@ -376,7 +376,7 @@
     "timeDay": 0,
     "timeWeek": 138,
     "timeMonth": 117,
-    "timeYear": 129,
+    "timeYear": 128,
     "dailyMinutesDown": {}
   },
   {
@@ -450,7 +450,7 @@
     "timeDay": 0,
     "timeWeek": 220,
     "timeMonth": 176,
-    "timeYear": 383,
+    "timeYear": 384,
     "dailyMinutesDown": {
       "2024-10-04": 22
     }
@@ -470,7 +470,7 @@
     "timeDay": 0,
     "timeWeek": 1112,
     "timeMonth": 1089,
-    "timeYear": 1212,
+    "timeYear": 1210,
     "dailyMinutesDown": {
       "2024-10-17": 29,
       "2024-10-09": 18
@@ -491,7 +491,7 @@
     "timeDay": 0,
     "timeWeek": 671,
     "timeMonth": 664,
-    "timeYear": 899,
+    "timeYear": 898,
     "dailyMinutesDown": {
       "2024-12-06": 28,
       "2024-11-06": 17,
@@ -516,7 +516,7 @@
     "timeDay": 0,
     "timeWeek": 687,
     "timeMonth": 601,
-    "timeYear": 459,
+    "timeYear": 460,
     "dailyMinutesDown": {
       "2024-09-09": 119
     }
@@ -590,7 +590,7 @@
     "timeDay": 0,
     "timeWeek": 626,
     "timeMonth": 718,
-    "timeYear": 724,
+    "timeYear": 723,
     "dailyMinutesDown": {
       "2025-03-20": 23
     }
@@ -684,7 +684,7 @@
     "timeDay": 0,
     "timeWeek": 2873,
     "timeMonth": 2808,
-    "timeYear": 1987,
+    "timeYear": 1989,
     "dailyMinutesDown": {
       "2025-02-04": 123,
       "2025-02-03": 1440,
@@ -730,7 +730,7 @@
     "timeDay": 0,
     "timeWeek": 1621,
     "timeMonth": 1472,
-    "timeYear": 1300,
+    "timeYear": 1299,
     "dailyMinutesDown": {
       "2025-02-23": 354,
       "2025-02-22": 189,
@@ -755,7 +755,7 @@
     "timeDay": 0,
     "timeWeek": 589,
     "timeMonth": 506,
-    "timeYear": 706,
+    "timeYear": 574,
     "dailyMinutesDown": {}
   }
 ]
