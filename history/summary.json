@@ -212,9 +212,9 @@
     "slug": "e-plus-analytics",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.97%",
     "time": 331,
     "timeDay": 677,
@@ -222,7 +222,6 @@
     "timeMonth": 398,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-06-02": 10,
       "2025-05-09": 71,
       "2025-05-08": 5,
       "2024-07-28": 47,
@@ -234,19 +233,19 @@
     "url": "https://json.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/json.eplus.dev.ico",
     "slug": "e-plus-json-crack",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 183,
-    "timeDay": 159,
-    "timeWeek": 204,
-    "timeMonth": 251,
+    "time": 184,
+    "timeDay": 248,
+    "timeWeek": 226,
+    "timeMonth": 255,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-06-02": 10
+      "2025-06-02": 18
     }
   },
   {
@@ -465,9 +464,9 @@
     "slug": "e-plus-laravel-artisan",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1225,
     "timeDay": 530,
@@ -475,7 +474,6 @@
     "timeMonth": 1825,
     "timeYear": 1401,
     "dailyMinutesDown": {
-      "2025-06-02": 9,
       "2024-10-17": 29,
       "2024-10-09": 18
     }
@@ -626,18 +624,16 @@
     "slug": "e-plus-time-sheet",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
     "timeDay": 135,
     "timeWeek": 256,
     "timeMonth": 224,
     "timeYear": 202,
-    "dailyMinutesDown": {
-      "2025-06-02": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ePlus Metrics",
@@ -666,18 +662,16 @@
     "slug": "e-plus-radio-old",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
     "timeDay": 142,
     "timeWeek": 227,
     "timeMonth": 160,
     "timeYear": 164,
-    "dailyMinutesDown": {
-      "2025-06-02": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "David ❤️ Sam (Backup)",
