@@ -81,7 +81,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xe.eplus.dev.ico",
     "slug": "xe",
     "status": "up",
-    "uptime": "97.25%",
+    "uptime": "97.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -746,18 +746,19 @@
     "url": "https://laravel-10x.onrender.com",
     "icon": "https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/img/icon/render-favicon-32x32.png",
     "slug": "laravel-10x-on-render",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 641,
+    "time": 639,
     "timeDay": 0,
     "timeWeek": 399,
     "timeMonth": 605,
     "timeYear": 573,
     "dailyMinutesDown": {
+      "2025-06-20": 1,
       "2025-06-07": 25
     }
   }
