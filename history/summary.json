@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/eplus.dev.ico",
     "slug": "e-plus-dev",
     "status": "up",
-    "uptime": "98.04%",
+    "uptime": "98.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -233,17 +233,16 @@
     "slug": "e-plus-json-crack",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 195,
     "timeDay": 1147,
     "timeWeek": 589,
     "timeMonth": 378,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2025-06-19": 11,
       "2025-06-02": 18
     }
   },
@@ -295,18 +294,16 @@
     "slug": "ho-tro-he-thong-mwg",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
     "timeDay": 1173,
     "timeWeek": 606,
     "timeMonth": 326,
     "timeYear": 196,
-    "dailyMinutesDown": {
-      "2025-06-19": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ePlus Top GitHub Users",
@@ -465,9 +462,9 @@
     "slug": "e-plus-laravel-artisan",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1272,
     "timeDay": 2313,
@@ -475,7 +472,6 @@
     "timeMonth": 1929,
     "timeYear": 1461,
     "dailyMinutesDown": {
-      "2025-06-19": 11,
       "2024-10-17": 29,
       "2024-10-09": 18
     }
@@ -665,18 +661,16 @@
     "slug": "e-plus-radio-old",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
     "timeDay": 1576,
     "timeWeek": 675,
     "timeMonth": 362,
     "timeYear": 186,
-    "dailyMinutesDown": {
-      "2025-06-19": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "David ❤️ Sam (Backup)",
