@@ -63,11 +63,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/new-radio.eplus.dev.ico",
     "slug": "e-plus-radio-new",
     "status": "up",
-    "uptime": "98.78%",
+    "uptime": "98.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.78%",
+    "uptimeYear": "98.79%",
     "time": 177,
     "timeDay": 0,
     "timeWeek": 178,
@@ -406,9 +406,9 @@
     "url": "https://dashboard.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.eplus.dev.ico",
     "slug": "e-plus-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -418,6 +418,7 @@
     "timeMonth": 306,
     "timeYear": 226,
     "dailyMinutesDown": {
+      "2025-07-15": 1,
       "2025-06-28": 17,
       "2024-10-09": 18
     }
