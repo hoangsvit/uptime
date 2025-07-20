@@ -4,18 +4,19 @@
     "url": "https://eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/eplus.dev.ico",
     "slug": "e-plus-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "97.43%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "83.80%",
     "uptimeYear": "95.07%",
-    "time": 200,
+    "time": 201,
     "timeDay": 832,
     "timeWeek": 861,
     "timeMonth": 561,
     "timeYear": 210,
     "dailyMinutesDown": {
+      "2025-07-20": 0,
       "2025-07-01": 390,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
@@ -63,11 +64,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/new-radio.eplus.dev.ico",
     "slug": "e-plus-radio-new",
     "status": "up",
-    "uptime": "98.80%",
+    "uptime": "98.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.80%",
+    "uptimeYear": "98.81%",
     "time": 176,
     "timeDay": 64,
     "timeWeek": 128,
@@ -86,9 +87,9 @@
     "url": "https://xe.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/xe.eplus.dev.ico",
     "slug": "xe",
-    "status": "up",
+    "status": "down",
     "uptime": "97.42%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.42%",
@@ -98,6 +99,7 @@
     "timeMonth": 288,
     "timeYear": 276,
     "dailyMinutesDown": {
+      "2025-07-20": 0,
       "2025-03-09": 543,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
@@ -256,10 +258,10 @@
     "url": "https://jsoncrack.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/jsoncrack.eplus.dev.ico",
     "slug": "e-plus-json-crack-plus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
@@ -267,7 +269,9 @@
     "timeWeek": 64,
     "timeMonth": 117,
     "timeYear": 118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-20": 1
+    }
   },
   {
     "name": "ePlus AirDrop",
@@ -334,10 +338,10 @@
     "url": "https://zing.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/zing.eplus.dev.ico",
     "slug": "e-plus-zing-mp-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
@@ -345,7 +349,9 @@
     "timeWeek": 127,
     "timeMonth": 166,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-20": 1
+    }
   },
   {
     "name": "ePlus DEV Tools",
@@ -608,10 +614,10 @@
     "url": "https://drawdb.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/drawdb.eplus.dev.ico",
     "slug": "e-plus-drawd-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
@@ -619,7 +625,9 @@
     "timeWeek": 71,
     "timeMonth": 105,
     "timeYear": 100,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-20": 1
+    }
   },
   {
     "name": "ePlus TimeSheet",
@@ -755,12 +763,12 @@
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 617,
     "timeDay": 360,
     "timeWeek": 425,
-    "timeMonth": 434,
+    "timeMonth": 419,
     "timeYear": 476,
     "dailyMinutesDown": {
       "2025-06-20": 25,
