@@ -1,7 +1,7 @@
 url: https://eplus.dev/api/status
-status: down
-code: 404
-responseTime: 244
-lastUpdated: 2025-07-26T09:59:20.941Z
+status: up
+code: 200
+responseTime: 343
+lastUpdated: 2025-07-26T10:47:18.458Z
 startTime: 2023-08-19T15:24:00.965Z
 generator: Upptime <https://github.com/upptime/upptime>
