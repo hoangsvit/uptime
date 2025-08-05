@@ -406,9 +406,9 @@
     "url": "https://dashboard.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.eplus.dev.ico",
     "slug": "e-plus-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -418,6 +418,7 @@
     "timeMonth": 309,
     "timeYear": 231,
     "dailyMinutesDown": {
+      "2025-08-05": 0,
       "2025-07-15": 18,
       "2025-06-28": 17,
       "2024-10-09": 18
@@ -686,12 +687,12 @@
     "uptime": "97.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "97.12%",
     "time": 1969,
     "timeDay": 1638,
     "timeWeek": 1978,
-    "timeMonth": 1969,
+    "timeMonth": 2030,
     "timeYear": 2065,
     "dailyMinutesDown": {
       "2025-07-16": 18,
@@ -759,7 +760,7 @@
     "time": 616,
     "timeDay": 314,
     "timeWeek": 494,
-    "timeMonth": 457,
+    "timeMonth": 447,
     "timeYear": 473,
     "dailyMinutesDown": {
       "2025-06-20": 25,
