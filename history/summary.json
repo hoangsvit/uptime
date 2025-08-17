@@ -4,18 +4,19 @@
     "url": "https://eplus.dev/api/status",
     "icon": "https://cdn.hashnode.com/res/hashnode/image/upload/v1605708831279/P0mjRkZd4.png",
     "slug": "e-plus-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "97.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "95.06%",
     "time": 198,
-    "timeDay": 167,
+    "timeDay": 226,
     "timeWeek": 256,
     "timeMonth": 362,
     "timeYear": 221,
     "dailyMinutesDown": {
+      "2025-08-17": 0,
       "2025-07-26": 48,
       "2025-07-01": 390,
       "2025-06-30": 1440,
@@ -87,18 +88,19 @@
     "url": "https://xe.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/xe.eplus.dev.ico",
     "slug": "xe",
-    "status": "up",
+    "status": "down",
     "uptime": "97.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.42%",
-    "time": 309,
+    "time": 308,
     "timeDay": 326,
     "timeWeek": 247,
     "timeMonth": 284,
     "timeYear": 266,
     "dailyMinutesDown": {
+      "2025-08-17": 0,
       "2025-03-09": 543,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
@@ -257,9 +259,9 @@
     "url": "https://jsoncrack.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/jsoncrack.eplus.dev.ico",
     "slug": "e-plus-json-crack-plus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -268,7 +270,9 @@
     "timeWeek": 110,
     "timeMonth": 114,
     "timeYear": 119,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-17": 0
+    }
   },
   {
     "name": "ePlus AirDrop",
@@ -336,18 +340,20 @@
     "url": "https://zing.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/zing.eplus.dev.ico",
     "slug": "e-plus-zing-mp-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 260,
+    "time": 259,
     "timeDay": 168,
     "timeWeek": 135,
     "timeMonth": 147,
     "timeYear": 178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-17": 0
+    }
   },
   {
     "name": "ePlus DEV Tools",
@@ -613,10 +619,10 @@
     "url": "https://drawdb.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/drawdb.eplus.dev.ico",
     "slug": "e-plus-drawd-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
@@ -624,7 +630,9 @@
     "timeWeek": 98,
     "timeMonth": 105,
     "timeYear": 101,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-17": 1
+    }
   },
   {
     "name": "ePlus TimeSheet",
