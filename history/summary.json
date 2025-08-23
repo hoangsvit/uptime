@@ -5,12 +5,12 @@
     "icon": "https://cdn.hashnode.com/res/hashnode/image/upload/v1605708831279/P0mjRkZd4.png",
     "slug": "e-plus-dev",
     "status": "up",
-    "uptime": "97.53%",
+    "uptime": "97.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "95.05%",
-    "time": 199,
+    "time": 211,
     "timeDay": 0,
     "timeWeek": 223,
     "timeMonth": 288,
@@ -89,7 +89,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xe.eplus.dev.ico",
     "slug": "xe",
     "status": "up",
-    "uptime": "97.57%",
+    "uptime": "97.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
@@ -98,7 +98,7 @@
     "timeDay": 0,
     "timeWeek": 332,
     "timeMonth": 301,
-    "timeYear": 267,
+    "timeYear": 265,
     "dailyMinutesDown": {
       "2025-08-17": 29,
       "2025-03-09": 543,
@@ -173,7 +173,7 @@
     "timeDay": 0,
     "timeWeek": 155,
     "timeMonth": 164,
-    "timeYear": 160,
+    "timeYear": 161,
     "dailyMinutesDown": {}
   },
   {
@@ -191,7 +191,7 @@
     "timeDay": 0,
     "timeWeek": 131,
     "timeMonth": 135,
-    "timeYear": 151,
+    "timeYear": 150,
     "dailyMinutesDown": {}
   },
   {
@@ -223,11 +223,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.96%",
-    "time": 343,
+    "time": 376,
     "timeDay": 0,
     "timeWeek": 495,
     "timeMonth": 391,
-    "timeYear": 393,
+    "timeYear": 394,
     "dailyMinutesDown": {
       "2025-08-11": 134,
       "2025-05-09": 71,
@@ -289,7 +289,7 @@
     "timeDay": 0,
     "timeWeek": 525,
     "timeMonth": 404,
-    "timeYear": 450,
+    "timeYear": 451,
     "dailyMinutesDown": {
       "2025-08-12": 104,
       "2025-05-06": 32,
@@ -350,7 +350,7 @@
     "timeDay": 0,
     "timeWeek": 195,
     "timeMonth": 157,
-    "timeYear": 176,
+    "timeYear": 175,
     "dailyMinutesDown": {
       "2025-08-17": 29
     }
@@ -406,7 +406,7 @@
     "timeDay": 0,
     "timeWeek": 122,
     "timeMonth": 202,
-    "timeYear": 219,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   },
   {
@@ -424,7 +424,7 @@
     "timeDay": 0,
     "timeWeek": 124,
     "timeMonth": 224,
-    "timeYear": 235,
+    "timeYear": 236,
     "dailyMinutesDown": {
       "2025-08-17": 20,
       "2025-08-06": 26,
@@ -467,7 +467,7 @@
     "timeDay": 0,
     "timeWeek": 182,
     "timeMonth": 196,
-    "timeYear": 399,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2024-10-04": 22
     }
@@ -487,7 +487,7 @@
     "timeDay": 0,
     "timeWeek": 2419,
     "timeMonth": 1840,
-    "timeYear": 1529,
+    "timeYear": 1534,
     "dailyMinutesDown": {
       "2024-10-17": 29,
       "2024-10-09": 18
@@ -499,7 +499,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/updown.eplus.dev.ico",
     "slug": "e-plus-updown",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -508,7 +508,7 @@
     "timeDay": 0,
     "timeWeek": 799,
     "timeMonth": 745,
-    "timeYear": 909,
+    "timeYear": 910,
     "dailyMinutesDown": {
       "2025-04-21": 387,
       "2025-03-31": 24,
@@ -533,7 +533,7 @@
     "timeDay": 0,
     "timeWeek": 314,
     "timeMonth": 462,
-    "timeYear": 496,
+    "timeYear": 497,
     "dailyMinutesDown": {
       "2024-09-09": 119
     }
@@ -571,7 +571,7 @@
     "timeDay": 0,
     "timeWeek": 626,
     "timeMonth": 394,
-    "timeYear": 404,
+    "timeYear": 403,
     "dailyMinutesDown": {
       "2025-06-12": 103
     }
@@ -705,7 +705,7 @@
     "timeDay": 0,
     "timeWeek": 1807,
     "timeMonth": 2334,
-    "timeYear": 2089,
+    "timeYear": 2090,
     "dailyMinutesDown": {
       "2025-08-13": 20,
       "2025-07-16": 18,
@@ -745,7 +745,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 1333,
+    "time": 1298,
     "timeDay": 0,
     "timeWeek": 1087,
     "timeMonth": 1248,
