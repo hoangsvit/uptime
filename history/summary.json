@@ -689,19 +689,19 @@
     "url": "https://old-radio.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/old-radio.eplus.dev.ico",
     "slug": "e-plus-radio-old",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 173,
-    "timeDay": 98,
-    "timeWeek": 146,
-    "timeMonth": 180,
-    "timeYear": 194,
+    "timeDay": 119,
+    "timeWeek": 148,
+    "timeMonth": 179,
+    "timeYear": 193,
     "dailyMinutesDown": {
-      "2025-08-27": 1
+      "2025-08-27": 17
     }
   },
   {
