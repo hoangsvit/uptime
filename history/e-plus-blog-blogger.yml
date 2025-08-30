@@ -1,7 +1,7 @@
 url: https://blog.eplus.dev
-status: up
-code: 200
-responseTime: 110
-lastUpdated: 2025-08-30T22:30:06.649Z
+status: down
+code: 429
+responseTime: 353
+lastUpdated: 2025-08-30T23:07:19.376Z
 startTime: 2024-01-22T03:12:37.527Z
 generator: Upptime <https://github.com/upptime/upptime>
