@@ -72,6 +72,8 @@ sites:
 
   - name: ePlus Blog (Blogger)
     url: https://blog.eplus.dev
+    expectedStatusCodes:
+      - 429
 
   - name: ePlus Laravel Artisan
     url: https://artisan.eplus.dev
