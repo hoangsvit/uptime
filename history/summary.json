@@ -491,18 +491,19 @@
     "url": "https://blog.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eplus.dev.ico",
     "slug": "e-plus-blog-blogger",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "60.15%",
-    "uptimeMonth": "87.36%",
-    "uptimeYear": "98.95%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "61.16%",
+    "uptimeMonth": "87.46%",
+    "uptimeYear": "98.96%",
     "time": 332,
-    "timeDay": 473,
-    "timeWeek": 338,
-    "timeMonth": 350,
+    "timeDay": 313,
+    "timeWeek": 337,
+    "timeMonth": 349,
     "timeYear": 375,
     "dailyMinutesDown": {
+      "2025-09-06": 1,
       "2025-09-04": 71,
       "2025-09-03": 655,
       "2025-09-02": 618,
@@ -510,7 +511,7 @@
       "2025-08-31": 831,
       "2025-08-30": 1110,
       "2025-08-29": 860,
-      "2025-08-28": 563
+      "2025-08-28": 519
     }
   },
   {
