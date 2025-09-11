@@ -16,6 +16,7 @@ sites:
   - name: Xe
     url: https://xe.eplus.dev
     expectedStatusCodes:
+      - 200
       - 429
       
   - name: ePlus News
@@ -73,6 +74,7 @@ sites:
   - name: ePlus Blog (Blogger)
     url: https://blog.eplus.dev
     expectedStatusCodes:
+      - 200
       - 429
 
   - name: ePlus Laravel Artisan
