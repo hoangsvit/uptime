@@ -232,11 +232,11 @@
     "url": "https://analytics.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.eplus.dev.ico",
     "slug": "e-plus-analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 385,
     "timeDay": 189,
@@ -244,6 +244,7 @@
     "timeMonth": 686,
     "timeYear": 430,
     "dailyMinutesDown": {
+      "2025-10-20": 3,
       "2025-08-11": 134,
       "2025-05-09": 71,
       "2025-05-08": 5
@@ -331,18 +332,20 @@
     "url": "https://mwg.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/mwg.eplus.dev.ico",
     "slug": "ho-tro-he-thong-mwg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 192,
     "timeDay": 58,
     "timeWeek": 197,
     "timeMonth": 223,
     "timeYear": 242,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-20": 2
+    }
   },
   {
     "name": "ePlus Top GitHub Users",
@@ -436,10 +439,10 @@
     "url": "https://draw.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/draw.eplus.dev.ico",
     "slug": "e-plus-draw",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 201,
@@ -447,7 +450,9 @@
     "timeWeek": 103,
     "timeMonth": 224,
     "timeYear": 242,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-20": 2
+    }
   },
   {
     "name": "ePlus Dashboard",
@@ -528,19 +533,19 @@
     "url": "https://artisan.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/artisan.eplus.dev.ico",
     "slug": "e-plus-laravel-artisan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "93.31%",
-    "uptimeWeek": "99.04%",
+    "uptimeDay": "93.22%",
+    "uptimeWeek": "99.03%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
-    "time": 1473,
+    "time": 1476,
     "timeDay": 2939,
     "timeWeek": 2285,
     "timeMonth": 2661,
     "timeYear": 1747,
     "dailyMinutesDown": {
-      "2025-10-20": 96
+      "2025-10-20": 97
     }
   },
   {
@@ -734,18 +739,19 @@
     "url": "https://old-radio.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/old-radio.eplus.dev.ico",
     "slug": "e-plus-radio-old",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 172,
+    "time": 173,
     "timeDay": 51,
     "timeWeek": 238,
     "timeMonth": 197,
     "timeYear": 200,
     "dailyMinutesDown": {
+      "2025-10-20": 1,
       "2025-08-27": 17
     }
   },
