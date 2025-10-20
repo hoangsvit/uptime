@@ -257,17 +257,16 @@
     "slug": "e-plus-json-crack",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 215,
     "timeDay": 123,
     "timeWeek": 145,
     "timeMonth": 220,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2025-10-20": 13,
       "2025-06-02": 18
     }
   },
@@ -333,10 +332,10 @@
     "url": "https://mwg.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/mwg.eplus.dev.ico",
     "slug": "ho-tro-he-thong-mwg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "97.25%",
-    "uptimeWeek": "99.61%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 192,
@@ -345,7 +344,7 @@
     "timeMonth": 219,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-10-20": 40
+      "2025-10-20": 42
     }
   },
   {
@@ -460,11 +459,11 @@
     "url": "https://dashboard.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.eplus.dev.ico",
     "slug": "e-plus-dashboard",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 217,
     "timeDay": 79,
@@ -472,7 +471,7 @@
     "timeMonth": 202,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-10-20": 12,
+      "2025-10-20": 1,
       "2025-09-14": 15,
       "2025-08-17": 20,
       "2025-08-06": 26,
@@ -705,18 +704,16 @@
     "slug": "e-plus-time-sheet",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
     "timeDay": 82,
     "timeWeek": 172,
     "timeMonth": 245,
     "timeYear": 234,
-    "dailyMinutesDown": {
-      "2025-10-20": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ePlus Metrics",
