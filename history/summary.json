@@ -537,19 +537,19 @@
     "url": "https://artisan.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/artisan.eplus.dev.ico",
     "slug": "e-plus-laravel-artisan",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "89.13%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "88.30%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.97%",
-    "time": 1486,
-    "timeDay": 2925,
-    "timeWeek": 2352,
-    "timeMonth": 2669,
-    "timeYear": 1752,
+    "time": 1495,
+    "timeDay": 3407,
+    "timeWeek": 2650,
+    "timeMonth": 2758,
+    "timeYear": 1767,
     "dailyMinutesDown": {
-      "2025-10-20": 156
+      "2025-10-20": 168
     }
   },
   {
