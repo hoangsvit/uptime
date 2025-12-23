@@ -586,19 +586,19 @@
     "url": "https://hub.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/hub.eplus.dev.ico",
     "slug": "e-plus-hub",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 416,
-    "timeDay": 0,
-    "timeWeek": 336,
-    "timeMonth": 357,
-    "timeYear": 411,
+    "time": 417,
+    "timeDay": 605,
+    "timeWeek": 403,
+    "timeMonth": 372,
+    "timeYear": 412,
     "dailyMinutesDown": {
-      "2025-12-23": 1
+      "2025-12-23": 17
     }
   },
   {
