@@ -80,7 +80,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/new-radio.eplus.dev.ico",
     "slug": "e-plus-radio-new",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -107,7 +107,7 @@
     "timeDay": 0,
     "timeWeek": 298,
     "timeMonth": 315,
-    "timeYear": 295,
+    "timeYear": 296,
     "dailyMinutesDown": {
       "2026-01-23": 75,
       "2026-01-22": 6,
@@ -193,7 +193,7 @@
     "timeDay": 0,
     "timeWeek": 162,
     "timeMonth": 158,
-    "timeYear": 161,
+    "timeYear": 162,
     "dailyMinutesDown": {}
   },
   {
@@ -247,7 +247,7 @@
     "timeDay": 0,
     "timeWeek": 633,
     "timeMonth": 444,
-    "timeYear": 535,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2025-10-20": 153,
       "2025-08-11": 134,
@@ -270,7 +270,7 @@
     "timeDay": 0,
     "timeWeek": 517,
     "timeMonth": 446,
-    "timeYear": 299,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2025-10-20": 33,
       "2025-06-02": 18
@@ -291,7 +291,7 @@
     "timeDay": 0,
     "timeWeek": 213,
     "timeMonth": 157,
-    "timeYear": 148,
+    "timeYear": 149,
     "dailyMinutesDown": {
       "2026-01-23": 75,
       "2026-01-22": 6,
@@ -324,7 +324,7 @@
     "timeDay": 0,
     "timeWeek": 3355,
     "timeMonth": 1238,
-    "timeYear": 566,
+    "timeYear": 568,
     "dailyMinutesDown": {
       "2026-01-20": 90,
       "2026-01-16": 16,
@@ -357,7 +357,7 @@
     "timeDay": 0,
     "timeWeek": 564,
     "timeMonth": 338,
-    "timeYear": 275,
+    "timeYear": 274,
     "dailyMinutesDown": {
       "2025-10-20": 106
     }
@@ -431,7 +431,7 @@
     "timeDay": 0,
     "timeWeek": 441,
     "timeMonth": 298,
-    "timeYear": 271,
+    "timeYear": 272,
     "dailyMinutesDown": {
       "2025-10-20": 32
     }
@@ -469,7 +469,7 @@
     "timeDay": 0,
     "timeWeek": 491,
     "timeMonth": 288,
-    "timeYear": 266,
+    "timeYear": 267,
     "dailyMinutesDown": {
       "2025-10-20": 71
     }
@@ -566,7 +566,7 @@
     "timeDay": 0,
     "timeWeek": 1948,
     "timeMonth": 2107,
-    "timeYear": 1957,
+    "timeYear": 1963,
     "dailyMinutesDown": {
       "2025-10-20": 168
     }
@@ -586,7 +586,7 @@
     "timeDay": 0,
     "timeWeek": 976,
     "timeMonth": 876,
-    "timeYear": 824,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2025-04-21": 387,
       "2025-03-31": 24
@@ -645,7 +645,7 @@
     "timeDay": 0,
     "timeWeek": 479,
     "timeMonth": 458,
-    "timeYear": 421,
+    "timeYear": 422,
     "dailyMinutesDown": {
       "2025-11-18": 94,
       "2025-10-15": 21,
@@ -686,7 +686,7 @@
     "timeDay": 0,
     "timeWeek": 900,
     "timeMonth": 810,
-    "timeYear": 768,
+    "timeYear": 769,
     "dailyMinutesDown": {
       "2025-03-20": 23
     }
@@ -706,7 +706,7 @@
     "timeDay": 0,
     "timeWeek": 122,
     "timeMonth": 129,
-    "timeYear": 124,
+    "timeYear": 125,
     "dailyMinutesDown": {
       "2026-01-23": 75,
       "2026-01-22": 6,
@@ -778,7 +778,7 @@
     "timeDay": 0,
     "timeWeek": 277,
     "timeMonth": 268,
-    "timeYear": 239,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2025-10-20": 59,
       "2025-08-27": 17
@@ -790,16 +790,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-david-sam.pantheonsite.io.ico",
     "slug": "david-sam-backup",
     "status": "up",
-    "uptime": "97.39%",
+    "uptime": "97.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "95.66%",
+    "uptimeYear": "95.71%",
     "time": 2095,
     "timeDay": 0,
     "timeWeek": 2764,
     "timeMonth": 2613,
-    "timeYear": 2107,
+    "timeYear": 2122,
     "dailyMinutesDown": {
       "2026-01-24": 28,
       "2026-01-21": 35,
@@ -832,8 +832,7 @@
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
-      "2025-01-28": 1440,
-      "2025-01-27": 1440
+      "2025-01-28": 1440
     }
   },
   {
@@ -851,7 +850,7 @@
     "timeDay": 0,
     "timeWeek": 1411,
     "timeMonth": 1323,
-    "timeYear": 1318,
+    "timeYear": 1317,
     "dailyMinutesDown": {
       "2025-02-23": 354,
       "2025-02-22": 189,
@@ -874,7 +873,7 @@
     "timeDay": 0,
     "timeWeek": 399,
     "timeMonth": 432,
-    "timeYear": 615,
+    "timeYear": 613,
     "dailyMinutesDown": {
       "2025-12-05": 30,
       "2025-10-02": 29,
