@@ -232,11 +232,11 @@
     "url": "https://json.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/json.eplus.dev.ico",
     "slug": "e-plus-json-crack",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 271,
     "timeDay": 851,
@@ -244,6 +244,7 @@
     "timeMonth": 516,
     "timeYear": 328,
     "dailyMinutesDown": {
+      "2026-03-11": 2,
       "2025-10-20": 33,
       "2025-06-02": 18
     }
@@ -395,10 +396,10 @@
     "url": "https://tools.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/tools.eplus.dev.ico",
     "slug": "e-plus-dev-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 258,
@@ -407,6 +408,7 @@
     "timeMonth": 431,
     "timeYear": 299,
     "dailyMinutesDown": {
+      "2026-03-11": 2,
       "2025-10-20": 32
     }
   },
@@ -531,18 +533,19 @@
     "url": "https://artisan.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/artisan.eplus.dev.ico",
     "slug": "e-plus-laravel-artisan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1772,
+    "time": 1776,
     "timeDay": 2960,
     "timeWeek": 2090,
     "timeMonth": 2541,
     "timeYear": 2074,
     "dailyMinutesDown": {
+      "2026-03-11": 1,
       "2025-10-20": 168
     }
   },
@@ -706,10 +709,10 @@
     "url": "https://timesheet.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/timesheet.eplus.dev.ico",
     "slug": "e-plus-time-sheet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 255,
@@ -718,6 +721,7 @@
     "timeMonth": 428,
     "timeYear": 282,
     "dailyMinutesDown": {
+      "2026-03-11": 1,
       "2025-10-20": 32
     }
   },
