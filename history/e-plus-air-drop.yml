@@ -1,7 +1,7 @@
 url: https://air.eplus.dev
-status: up
-code: 200
-responseTime: 300
-lastUpdated: 2026-03-28T13:57:03.998Z
+status: down
+code: 503
+responseTime: 4561
+lastUpdated: 2026-03-28T14:35:32.942Z
 startTime: 2024-01-05T17:31:30.194Z
 generator: Upptime <https://github.com/upptime/upptime>
