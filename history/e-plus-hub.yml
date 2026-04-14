@@ -1,7 +1,7 @@
-url: https://hub.eplus.dev
-status: down
-code: 404
-responseTime: 141
-lastUpdated: 2026-04-13T23:52:22.092Z
+url: https://hub.eplus.dev/api/ping
+status: up
+code: 200
+responseTime: 173
+lastUpdated: 2026-04-14T04:04:19.004Z
 startTime: 2023-08-19T15:49:02.054Z
 generator: Upptime <https://github.com/upptime/upptime>
