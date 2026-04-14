@@ -84,7 +84,7 @@ sites:
     url: https://updown.eplus.dev
     
   - name: ePlus HUB
-    url: https://hub.eplus.dev
+    url: https://hub.eplus.dev/api/ping
     
   - name: ePlus Uptime
     url: https://uptime.eplus.dev
