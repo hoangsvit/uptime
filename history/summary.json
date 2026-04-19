@@ -286,19 +286,19 @@
     "url": "https://air.eplus.dev",
     "icon": "https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/img/icon/airdrop.png",
     "slug": "e-plus-air-drop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "86.13%",
-    "uptimeWeek": "76.52%",
+    "uptimeDay": "86.01%",
+    "uptimeWeek": "76.51%",
     "uptimeMonth": "78.15%",
     "uptimeYear": "97.97%",
-    "time": 1401,
-    "timeDay": 1898,
-    "timeWeek": 3602,
-    "timeMonth": 3171,
-    "timeYear": 1751,
+    "time": 1416,
+    "timeDay": 3629,
+    "timeWeek": 3709,
+    "timeMonth": 3200,
+    "timeYear": 1767,
     "dailyMinutesDown": {
-      "2026-04-19": 200,
+      "2026-04-19": 202,
       "2026-04-18": 124,
       "2026-04-17": 468,
       "2026-04-16": 478,
@@ -335,8 +335,7 @@
       "2025-09-08": 64,
       "2025-08-27": 42,
       "2025-08-26": 7,
-      "2025-08-12": 104,
-      "2025-05-06": 32
+      "2025-08-12": 104
     }
   },
   {
