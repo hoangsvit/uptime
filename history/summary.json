@@ -288,13 +288,13 @@
     "slug": "e-plus-air-drop",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "29.34%",
-    "uptimeWeek": "66.45%",
+    "uptimeDay": "36.28%",
+    "uptimeWeek": "67.46%",
     "uptimeMonth": "75.31%",
     "uptimeYear": "97.88%",
     "time": 1521,
-    "timeDay": 4194,
-    "timeWeek": 3721,
+    "timeDay": 3508,
+    "timeWeek": 3615,
     "timeMonth": 3242,
     "timeYear": 1843,
     "dailyMinutesDown": {
@@ -575,9 +575,7 @@
     "timeWeek": 834,
     "timeMonth": 814,
     "timeYear": 851,
-    "dailyMinutesDown": {
-      "2025-04-21": 387
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ePlus HUB",
@@ -587,7 +585,7 @@
     "status": "up",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.52%",
+    "uptimeWeek": "99.27%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.93%",
     "time": 403,
@@ -857,9 +855,9 @@
     "slug": "laravel-10x-on-render",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "94.89%",
-    "uptimeMonth": "84.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.01%",
+    "uptimeMonth": "84.91%",
     "uptimeYear": "98.71%",
     "time": 2584,
     "timeDay": 864,
@@ -867,7 +865,6 @@
     "timeMonth": 9645,
     "timeYear": 3258,
     "dailyMinutesDown": {
-      "2026-04-20": 12,
       "2026-04-19": 30,
       "2026-04-17": 200,
       "2026-04-16": 163,
