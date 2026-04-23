@@ -5,7 +5,7 @@
     "icon": "https://cdn.hashnode.com/res/hashnode/image/upload/v1605708831279/P0mjRkZd4.png",
     "slug": "e-plus-dev",
     "status": "up",
-    "uptime": "98.11%",
+    "uptime": "98.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -84,7 +84,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xe.eplus.dev.ico",
     "slug": "xe",
     "status": "up",
-    "uptime": "98.10%",
+    "uptime": "98.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -138,7 +138,7 @@
     "slug": "e-plus-top-git-hub-users",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -147,7 +147,9 @@
     "timeWeek": 140,
     "timeMonth": 226,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-23": 0
+    }
   },
   {
     "name": "ePlus - Top GitHub",
@@ -288,13 +290,13 @@
     "slug": "e-plus-air-drop",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "88.45%",
-    "uptimeWeek": "67.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "69.54%",
     "uptimeMonth": "73.21%",
     "uptimeYear": "97.77%",
     "time": 1590,
-    "timeDay": 4249,
-    "timeWeek": 3263,
+    "timeDay": 0,
+    "timeWeek": 3313,
     "timeMonth": 3264,
     "timeYear": 1889,
     "dailyMinutesDown": {
@@ -354,7 +356,7 @@
     "slug": "e-plus-top-git-hub-users",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -363,7 +365,9 @@
     "timeWeek": 140,
     "timeMonth": 226,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-23": 0
+    }
   },
   {
     "name": "ePlus ZingMP3",
@@ -853,12 +857,12 @@
     "slug": "laravel-10x-on-render",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "84.35%",
+    "uptimeDay": "87.94%",
     "uptimeWeek": "92.66%",
     "uptimeMonth": "83.75%",
     "uptimeYear": "98.62%",
     "time": 2406,
-    "timeDay": 13870,
+    "timeDay": 17306,
     "timeWeek": 8764,
     "timeMonth": 9758,
     "timeYear": 3450,
