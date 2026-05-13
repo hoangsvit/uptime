@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 
 sites:
   - name: ePlus.DEV
-    url: https://eplus.dev/api/status
+    url: https://eplus.dev
     icon: https://cdn.hashnode.com/res/hashnode/image/upload/v1605708831279/P0mjRkZd4.png
     
   - name: ePlus Radio
