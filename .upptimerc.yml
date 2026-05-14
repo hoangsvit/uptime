@@ -6,6 +6,9 @@ sites:
   - name: ePlus.DEV
     url: https://eplus.dev
     icon: https://cdn.hashnode.com/res/hashnode/image/upload/v1605708831279/P0mjRkZd4.png
+    expectedStatusCodes:
+      - 200
+      - 429
     
   - name: ePlus Radio
     url: https://radio.eplus.dev
