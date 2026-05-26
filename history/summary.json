@@ -868,17 +868,17 @@
     "url": "https://laravel-10x.onrender.com",
     "icon": "https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/img/icon/render-favicon-32x32.png",
     "slug": "laravel-10x-on-render",
-    "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "94.66%",
-    "uptimeWeek": "95.53%",
-    "uptimeMonth": "95.50%",
-    "uptimeYear": "98.22%",
-    "time": 3464,
-    "timeDay": 18639,
-    "timeWeek": 12207,
-    "timeMonth": 10848,
-    "timeYear": 4671,
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "84.11%",
+    "uptimeWeek": "94.02%",
+    "uptimeMonth": "95.15%",
+    "uptimeYear": "98.19%",
+    "time": 3480,
+    "timeDay": 16119,
+    "timeWeek": 11875,
+    "timeMonth": 10800,
+    "timeYear": 4682,
     "dailyMinutesDown": {
       "2025-10-02": 29,
       "2025-12-05": 30,
@@ -919,7 +919,7 @@
       "2026-05-13": 158,
       "2026-05-22": 347,
       "2026-05-21": 27,
-      "2026-05-26": 77
+      "2026-05-26": 229
     }
   }
 ]
