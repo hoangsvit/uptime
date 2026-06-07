@@ -795,7 +795,7 @@
     "status": "up",
     "uptime": "97.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "83.72%",
+    "uptimeWeek": "85.04%",
     "uptimeMonth": "93.77%",
     "uptimeYear": "97.22%",
     "time": 2553,
@@ -871,11 +871,11 @@
     "icon": "https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/img/icon/render-favicon-32x32.png",
     "slug": "laravel-10x-on-render",
     "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "97.99%",
-    "uptimeYear": "98.18%",
+    "uptime": "99.34%",
+    "uptimeDay": "90.63%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "97.69%",
+    "uptimeYear": "98.16%",
     "time": 3535,
     "timeDay": 1872,
     "timeWeek": 2485,
@@ -921,7 +921,7 @@
       "2026-05-21": 27,
       "2026-05-26": 229,
       "2026-05-30": 118,
-      "2026-06-07": 1
+      "2026-06-07": 135
     }
   }
 ]
