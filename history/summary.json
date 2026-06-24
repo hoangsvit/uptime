@@ -68,7 +68,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/new-radio.eplus.dev.ico",
     "slug": "e-plus-radio-new",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -868,17 +868,17 @@
     "url": "https://laravel-10x.onrender.com",
     "icon": "https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/img/icon/render-favicon-32x32.png",
     "slug": "laravel-10x-on-render",
-    "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.35%",
-    "uptimeYear": "98.13%",
-    "time": 4253,
-    "timeDay": 2291,
-    "timeWeek": 28279,
-    "timeMonth": 11654,
-    "timeYear": 5520,
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "89.96%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "98.02%",
+    "uptimeYear": "98.10%",
+    "time": 4258,
+    "timeDay": 2508,
+    "timeWeek": 25464,
+    "timeMonth": 11441,
+    "timeYear": 5513,
     "dailyMinutesDown": {
       "2026-03-27": 316,
       "2026-03-28": 741,
@@ -919,7 +919,7 @@
       "2026-05-26": 229,
       "2026-05-30": 118,
       "2026-06-07": 375,
-      "2026-06-24": 1
+      "2026-06-24": 145
     }
   }
 ]
