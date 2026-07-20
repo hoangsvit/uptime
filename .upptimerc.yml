@@ -129,7 +129,8 @@ sites:
     url: https://arcade-points-backend.onrender.com/api/calculator/calculate
     headers:
       - "Content-Type: application/json"
-    body: '{url: "https://www.skills.google/public_profiles/f41c688e-40d2-489d-9854-7472628a2bc0"}'
+      - "x-api-key: mysecretapikey"
+    body: '{"url": "https://www.skills.google/public_profiles/f41c688e-40d2-489d-9854-7472628a2bc0"}'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
