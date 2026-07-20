@@ -124,6 +124,14 @@ sites:
     url: https://laravel-10x.onrender.com
     icon: https://cdn.jsdelivr.net/gh/ePlus-DEV/cdn.eplus.dev/img/icon/render-favicon-32x32.png
 
+  - name: API point
+    method: POST
+    url: https://arcade-points-backend.onrender.com/api/calculator/calculate
+    headers:
+      - "Content-Type: application/json"
+      - "x-api-key: mysecretapikey"
+    body: '{"url": "https://www.skills.google/public_profiles/f41c688e-40d2-489d-9854-7472628a2bc0"}'
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

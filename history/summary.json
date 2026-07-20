@@ -912,5 +912,25 @@
       "2026-06-24": 145,
       "2026-07-19": 79
     }
+  },
+  {
+    "name": "API point",
+    "url": "https://arcade-points-backend.onrender.com/api/calculator/calculate",
+    "icon": "https://icons.duckduckgo.com/ip3/arcade-points-backend.onrender.com.ico",
+    "slug": "api-point",
+    "status": "up",
+    "uptime": "3.70%",
+    "uptimeDay": "3.70%",
+    "uptimeWeek": "3.70%",
+    "uptimeMonth": "3.70%",
+    "uptimeYear": "3.70%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-07-20": 62
+    }
   }
 ]
