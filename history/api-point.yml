@@ -1,7 +1,7 @@
 url: https://arcade-points-backend.onrender.com/api/calculator/calculate
-status: up
-code: 200
-responseTime: 3300
-lastUpdated: 2026-07-29T00:04:13.240Z
+status: down
+code: 400
+responseTime: 222
+lastUpdated: 2026-07-29T19:36:41.699Z
 startTime: 2026-07-20T08:32:02.318Z
 generator: Upptime <https://github.com/upptime/upptime>
