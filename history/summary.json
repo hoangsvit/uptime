@@ -6,10 +6,10 @@
     "slug": "e-plus-dev",
     "status": "down",
     "uptime": "98.18%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "94.46%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.51%",
     "time": 275,
     "timeDay": 296,
     "timeWeek": 347,
@@ -35,7 +35,7 @@
       "2026-01-22": 6,
       "2026-05-14": 758,
       "2026-05-13": 1187,
-      "2026-08-12": 11
+      "2026-08-12": 80
     }
   },
   {
@@ -80,11 +80,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/xe.eplus.dev.ico",
     "slug": "xe",
     "status": "down",
-    "uptime": "98.34%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.51%",
+    "uptime": "98.33%",
+    "uptimeDay": "94.79%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.50%",
     "time": 300,
     "timeDay": 322,
     "timeWeek": 428,
@@ -107,7 +107,7 @@
       "2026-03-13": 299,
       "2026-03-12": 1440,
       "2026-03-11": 451,
-      "2026-08-12": 7
+      "2026-08-12": 75
     }
   },
   {
@@ -584,11 +584,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hub.eplus.dev.ico",
     "slug": "e-plus-hub",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.94%",
+    "uptimeDay": "95.09%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.89%",
     "time": 342,
     "timeDay": 42,
     "timeWeek": 987,
@@ -600,7 +600,7 @@
       "2026-04-14": 244,
       "2026-04-13": 67,
       "2026-05-04": 126,
-      "2026-08-12": 2
+      "2026-08-12": 71
     }
   },
   {
