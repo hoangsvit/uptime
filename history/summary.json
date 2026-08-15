@@ -80,7 +80,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xe.eplus.dev.ico",
     "slug": "xe",
     "status": "up",
-    "uptime": "98.33%",
+    "uptime": "98.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.61%",
     "uptimeMonth": "99.68%",
@@ -188,7 +188,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/graphql-studio.eplus.dev.ico",
     "slug": "graphql-studio",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -563,19 +563,20 @@
     "url": "https://updown.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/updown.eplus.dev.ico",
     "slug": "e-plus-updown",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 866,
+    "time": 865,
     "timeDay": 778,
     "timeWeek": 796,
     "timeMonth": 944,
     "timeYear": 903,
     "dailyMinutesDown": {
-      "2026-05-10": 150
+      "2026-05-10": 150,
+      "2026-08-15": 2
     }
   },
   {
