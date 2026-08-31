@@ -1,7 +1,7 @@
 url: https://arcadecalc-v1-backend.onrender.com/api/v1/analyzeProfile
-status: up
-code: 200
-responseTime: 4279
-lastUpdated: 2026-08-31T01:20:11.344Z
+status: down
+code: 503
+responseTime: 66
+lastUpdated: 2026-08-31T15:27:35.551Z
 startTime: 2026-08-07T11:09:01.860Z
 generator: Upptime <https://github.com/upptime/upptime>
