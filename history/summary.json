@@ -4,17 +4,17 @@
     "url": "https://eplus.dev",
     "icon": "https://cdn.hashnode.com/res/hashnode/image/upload/v1605708831279/P0mjRkZd4.png",
     "slug": "e-plus-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "98.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
     "time": 334,
-    "timeDay": 545,
-    "timeWeek": 520,
-    "timeMonth": 506,
-    "timeYear": 314,
+    "timeDay": 354,
+    "timeWeek": 475,
+    "timeMonth": 495,
+    "timeYear": 313,
     "dailyMinutesDown": {
       "2025-11-09": 15,
       "2025-11-19": 27,
@@ -23,7 +23,8 @@
       "2026-05-14": 758,
       "2026-05-13": 1187,
       "2026-08-12": 145,
-      "2026-09-03": 279
+      "2026-09-03": 279,
+      "2026-10-27": 2
     }
   },
   {
@@ -67,17 +68,17 @@
     "url": "https://xe.eplus.dev",
     "icon": "https://icons.duckduckgo.com/ip3/xe.eplus.dev.ico",
     "slug": "xe",
-    "status": "up",
+    "status": "down",
     "uptime": "98.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
     "time": 351,
-    "timeDay": 789,
-    "timeWeek": 676,
-    "timeMonth": 639,
-    "timeYear": 381,
+    "timeDay": 471,
+    "timeWeek": 611,
+    "timeMonth": 624,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2025-11-19": 27,
       "2026-01-23": 75,
@@ -85,7 +86,8 @@
       "2026-03-13": 299,
       "2026-03-12": 1440,
       "2026-03-11": 451,
-      "2026-08-12": 140
+      "2026-08-12": 140,
+      "2026-10-27": 2
     }
   },
   {
@@ -742,7 +744,7 @@
     "uptime": "98.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.56%",
+    "uptimeMonth": "91.59%",
     "uptimeYear": "96.21%",
     "time": 1511,
     "timeDay": 2559,
